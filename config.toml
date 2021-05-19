@@ -1,0 +1,38 @@
+baseURL = "https://yulqen.org"
+title = "Yulqen"
+theme = "etch"
+languageCode = "en-gb"
+enableInlineShortcodes = true
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+  description = "An intentionally quiet and unassuming (and empty) blog"
+  copyright = "Copyright © 2021 Yulqen"
+  dark = "auto"
+  highlight = true
+
+[menu]
+  [[menu.main]]
+    identifier = "blog"
+    name = "blog"
+    title = "blog"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    title = "about"
+    url = "/about/"
+    weight = 20
+
+[permalinks]
+  posts = "/:title/"
+
+[markup.goldmark.renderer]
+  # Allow HTML in Markdown
+  unsafe = true
+
+  [markup.tableOfContents]
+    ordered = true
