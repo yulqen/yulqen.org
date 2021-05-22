@@ -7,3 +7,5 @@ slug: "about"
 
 I am a person.
 
+![hello](poser_guy.png "Me Me on a mountain")
+
