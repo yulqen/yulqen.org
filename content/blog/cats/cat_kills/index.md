@@ -7,7 +7,7 @@ draft: false
 A simple list of slaughtered fauna for 2021, each an innocent victim of one of 
 [our three cats, Sadie, Cinnamon and Bob]({{< relref "#the-perpetrators" >}}).
 
-## Current analysis as of 21 May 2021:
+#### Current analysis as of 21 May 2021:
 
 <p><em>Starting to ramp up now after a slow start to the season.</em></p>
 

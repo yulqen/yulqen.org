@@ -7,5 +7,6 @@ slug: "about"
 
 I am a person.
 
-![hello](poser_guy.png "Me Me on a mountain")
+<img src="poser_guy.png" alt="Me Me on a mountain" style="margin-left: 0px;">
+</div>
 
