@@ -1,15 +1,21 @@
 ---
 title: "Cat Kill Log"
-date: 2021-05-21T14:36:49+01:00
+date: 2021-05-28T14:36:49+01:00
 draft: false
 ---
 
-A simple list of slaughtered fauna for 2021, each an innocent victim of one of 
-[our three cats, Sadie, Cinnamon and Bob]({{< relref "#the-perpetrators" >}}).
+Ah, springtime! A time of awakening, rebirth, burgeoning buds - and avian
+bloodshed. And a good deal of mammal death, too.
 
-#### Current analysis as of 21 May 2021:
+This year we are taking account of the savagery, perhaps to try to atone for the
+guilt we suffer for allowing [Sadie, Cinnamon and Bob]({{< relref "#the-perpetrators" >}}) 
+to exact such terror on the local wildlife.
 
-<p><em>Starting to ramp up now after a slow start to the season.</em></p>
+Here then is a simple list of slaughtered fauna for 2021. 
+
+#### Current analysis as of 28 May 2021:
+
+<p><em>Really, starting to ramp up now after a slow start to the season.</em></p>
 
 <table style="width:92%; padding:2px; margin:2px;">
 	<colgroup>
@@ -33,6 +39,35 @@ A simple list of slaughtered fauna for 2021, each an innocent victim of one of
 		</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>28 May 2021</td>
+			<td>Bird</td>
+			<td>Unidentifiable</td>
+			<td>Total dismemberment and partially digested</td>
+			<td>Unknown</td>
+			<td>Sadie or Cinnamon</td>
+			<td>Head, wing, some feathers. The rest simply piles of <em>reguritate</em> like
+			glamorgan sausage.</td>
+		</tr>
+		<tr>
+			<td>27 May 2021</td>
+			<td>Bird</td>
+			<td>Sparrow</td>
+			<td>DOA</td>
+			<td>Sadie</td>
+			<td>NA</td>
+			<td>Deposited at the next door neighbour's back door.</td>
+		</tr>
+		<tr>
+			<td>27 May 2021</td>
+			<td>Bird</td>
+			<td>Sparrow</td>
+			<td>DOA</td>
+			<td>Sadie</td>
+			<td>NA</td>
+			<td>Deposited at the next door neighbour's back door. Two in one
+			day.</td>
+		</tr>
 		<tr>
 			<td>21 May 2021</td>
 			<td>Bird</td>

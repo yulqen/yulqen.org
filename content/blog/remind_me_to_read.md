@@ -6,6 +6,11 @@ draft: false
 
 #### Articles on the web
 
+* [Anthony Campbell site - particularly the Links page](https://www.acampbell.uk/links.html)  
+  *A proper old school HTML blog with interesting content and no bullshit or
+  Javascript.*
+---
+
 * [A Love Letter to Plain Text](https://blog.afoolishmanifesto.com/posts/a-love-letter-to-plain-text/)  
   *Another one. About plain text.*
 ---
