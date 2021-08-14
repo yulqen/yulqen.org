@@ -1,6 +1,6 @@
 ---
 title: "Cat Kill Log"
-date: 2021-05-28T14:36:49+01:00
+date: 2021-06-21T18:30:49+01:00
 draft: false
 ---
 
@@ -13,9 +13,10 @@ to exact such terror on the local wildlife.
 
 Here then is a simple list of slaughtered fauna for 2021. 
 
-#### Current analysis as of 28 May 2021:
+#### Current analysis as of 21 June 2021:
 
-<p><em>Really, starting to ramp up now after a slow start to the season.</em></p>
+<p><em>After an active period in May, the kill-rate has slowed a bit, but we
+suspect we're not seeing the victims...</em></p>
 
 <table style="width:92%; padding:2px; margin:2px;">
 	<colgroup>
@@ -39,6 +40,38 @@ Here then is a simple list of slaughtered fauna for 2021.
 		</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>21 June 2021</td>
+			<td>Bird</td>
+			<td>Sparrow</td>
+			<td>DOA</td>
+			<td>Sadie</td>
+			<td>NA</td>
+			<td>As I was updating this page, a corpse was found on the
+			vestibule carpet. Into a nappy sack it went.</td>
+		</tr>
+		<tr>
+			<td>20 June 2021</td>
+			<td>Bird</td>
+			<td>Sparrow</td>
+			<td>Survived</td>
+			<td>Bob</td>
+			<td>NA</td>
+			<td>Bob caught a bird but couldn't get into our house to "bring
+			home", so presented to our neighbours having entered the premises via their
+			front window.</td>
+		</tr>
+		<tr>
+			<td>1 June 2021</td>
+			<td>Bird</td>
+			<td>Sparrow</td>
+			<td>Dead</td>
+			<td>Cinnamon</td>
+			<td>NA</td>
+			<td>Cinnamon spotted rolling around and tossing the corpse in the
+			air in the garden. Cadaver still warm on disposal; assailant made off
+			over next door's garage.</td>
+		</tr>
 		<tr>
 			<td>28 May 2021</td>
 			<td>Bird</td>
