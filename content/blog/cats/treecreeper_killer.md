@@ -2,6 +2,7 @@
 title: "Treecreeper Killer"
 date: 2021-05-17T19:42:59+01:00
 draft: false
+category: "cats"
 ---
 
 This cat kills treecreepers. He is a very naughty boy.

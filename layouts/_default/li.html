@@ -1,0 +1,24 @@
+<style>
+    #cat-category {
+        font-size: small;
+        color: red;
+    }
+    #vim-category {
+        font-size: small;
+        color: #2abb01;
+    }
+</style>
+
+<li>
+    <a href="{{ .Permalink }}">
+        {{ .Title }}
+        {{ if isset .Params "category" }}
+            {{ if eq .Params.Category "cats" }}
+            <span id="cat-category">[{{ lower .Params.Category }}]</span>
+            {{ else if (eq .Params.Category "vim") }}
+            <span id="vim-category">[{{ lower .Params.Category }}]</span>
+            {{ end }}
+        {{ end }}
+        <small><time>{{ .Date.Format "2 Jan 2006" }}</time></small>
+    </a>
+</li>
