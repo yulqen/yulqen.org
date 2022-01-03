@@ -24,7 +24,7 @@ suspect we're not seeing the victims...</em></p>
 		<col span="1" style="width:30%;" />
 		<col \>
 		<col \>
-		<col span="1" style="background-color:pink; width:15%" />
+		<col span="1" style="width:15%" />
 		<col \>
 		<col \>
 		<col style="width:40%">

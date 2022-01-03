@@ -17,7 +17,7 @@ pygmentsUseClasses = true
     identifier = "blog"
     name = "blog"
     title = "blog"
-    url = "/"
+    url = "/blog/"
     weight = 10
 
   [[menu.main]]
