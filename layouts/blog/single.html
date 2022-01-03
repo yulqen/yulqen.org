@@ -5,13 +5,14 @@
             <div>
             {{- if isset .Params "date" -}}
                 {{ if eq .Lastmod .Date }}
-                <time>{{ .Date.Format "2 January, 2006" }}</time>
+                <time>{{ .Date.Format "Monday 2 Jan 2006" }}</time>
                 {{ else }}
                 Updated <time>{{ .Lastmod.Format "January 2, 2006" }}</time>
                 {{ end }}
             {{- end -}}
             </div>
     </header>
+    This is a {{ .Kind }}.
     {{- .Content -}}
 </article>
 {{ end }}
