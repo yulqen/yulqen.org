@@ -8,7 +8,7 @@ pygmentsUseClasses = true
 
 [params]
   description = "An intentionally quiet and unassuming (and empty) blog"
-  copyright = "Copyright © 2021 Yulqen"
+  copyright = "Copyright © 2022 Yulqen"
   dark = "auto"
   highlight = true
 
