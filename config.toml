@@ -1,6 +1,6 @@
 baseURL = "https://yulqen.org"
 title = "Yulqen"
-theme = "etch"
+theme = "problematic"
 languageCode = "en-gb"
 enableInlineShortcodes = true
 pygmentsCodeFences = true
