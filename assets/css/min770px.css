@@ -1,9 +1,9 @@
 @media (min-width: 770px) {
 body {
-    width: 600px;
+    width: 800px;
     line-height: 1.5;
     background: #b5b5b5;
-    font-size: 20px;
+    font-size: 12px;
 }
 
 main#content hr {

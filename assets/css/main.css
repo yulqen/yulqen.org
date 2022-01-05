@@ -109,7 +109,7 @@ main#content abbr {
 /* index.html styles */
 main#content ul#posts {
     list-style-type: none;
-    font-size: 16px;
+    font-size: 12px;
     font-size: 1.6rem;
     margin-top: 0;
     padding: 0;
