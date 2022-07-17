@@ -1,5 +1,5 @@
 ---
-title: "Cat Kill Log"
+title: "Cat Kill Log - 2021"
 date: 2021-06-21T18:30:49+01:00
 draft: false
 category: "cats"
