@@ -5,17 +5,14 @@ draft: false
 slug: "about"
 ---
 
-Yulqen is a deliberate misspelling of an Autechre song I like.
+Yulqen is a deliberate misspelling of an [Autechre](https://en.wikipedia.org/wiki/Autechre) song I like.
 
-This is a test.
+This is a test. It is always a test.
 
-I was a wedding photographer for a short time.
+I was a wedding photographer for a short time. Unfortunately I'm no longer able to evidence this because I accidentally deleted **all** RAW and processed files from that period when I repartitioned an external drive.
 
-I currently live in Berwick-upon-Tweed.
+I currently live in [Berwick-upon-Tweed](https://en.wikipedia.org/wiki/Berwick-upon-Tweed).
 
-This is my umpteenth web site.
+This is my umpteenth web site and it will dutifully disappear in time. Or change to a [pandoc](https://pandoc.org)-driven site.
 
-I have [three cats that kill]({{< ref "blog/cats/cat_kills/" >}} "Cat Kill
-Log").
-
-
+I have [three cats that kill](../blog/cats/cat_kills/).

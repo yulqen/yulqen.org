@@ -5,6 +5,6 @@ draft: false
 category: "cats"
 ---
 
-This cat kills treecreepers. He is a very naughty boy.
+This [cat kills treecreepers](../cat_kills/). He is a very naughty boy.
 
 {{<figure src="/img/bob.jpg" title="Bob the cat">}}

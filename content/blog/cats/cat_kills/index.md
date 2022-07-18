@@ -1,5 +1,5 @@
 ---
-title: "Cat Kill Log - 2021"
+title: "Cat Kill Log"
 date: 2021-06-21T18:30:49+01:00
 draft: false
 category: "cats"
@@ -14,12 +14,53 @@ to exact such terror on the local wildlife.
 
 Here then is a simple list of slaughtered fauna for 2021. 
 
+#### UPDATE: 2022
+
+I have decided to resume updating this. Best way to do it is to include a new table for 2022. As of 17 July 2022, I've missed about two hundred kills this year, but what the hell - no time like the present.
+
+Chris Packham - if you're reading this, you're right. Locking the cats out at night *does* result in a higher kill-rate. It's less hassle for us but more hassle for the birds. Lesson learned, but we're not doing anything about it yet. Let's watch the numbers.
+
+<table style="font-size:10px; width:92%; padding:2px; margin:2px;">
+	<colgroup>
+		<col span="1" style="width:30%;" />
+		<col \>
+		<col \>
+		<col span="1" style="width:15%" />
+		<col \>
+		<col \>
+		<col style="width:40%">
+	</colgroup>
+	<thead>
+		<tr class="header">
+			<th>Date</th>
+			<th>Super species</th>
+			<th>Specific species</th>
+			<th>Kill Type</th>
+			<th>Killer</th>
+			<th>Suspect Killer</th>
+			<th>Comments</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>17 July 2022</td>
+			<td>Bird</td>
+			<td>Sparrow</td>
+			<td>DOA</td>
+			<td>Unknown</td>
+			<td>NA</td>
+			<td>Mullered corpse lying in bloom of feathers on the utility room floor upon waking this morning. Do most of my hoovering in pyjamas nowadays.</td>
+		</tr>
+	</tbody>
+</table>
+
+
 #### Current analysis as of 21 June 2021:
 
 <p><em>After an active period in May, the kill-rate has slowed a bit, but we
 suspect we're not seeing the victims...</em></p>
 
-<table style="width:92%; padding:2px; margin:2px;">
+<table style="font-size:10px; width:92%; padding:2px; margin:2px;">
 	<colgroup>
 		<col span="1" style="width:30%;" />
 		<col \>
@@ -81,7 +122,7 @@ suspect we're not seeing the victims...</em></p>
 			<td>Unknown</td>
 			<td>Sadie or Cinnamon</td>
 			<td>Head, wing, some feathers. The rest simply piles of <em>reguritate</em> like
-			glamorgan sausage.</td>
+			<a href="https://en.wikipedia.org/wiki/Glamorgan_sausage">glamorgan sausage</a>.</td>
 		</tr>
 		<tr>
 			<td>27 May 2021</td>
@@ -170,6 +211,6 @@ suspect we're not seeing the victims...</em></p>
 
 ## The perpetrators
 
-{{< figure src="sadie1.jpg" alt="Picture of cat Sadie" title="Sadie" caption="Killer" >}}
-{{< figure src="cin1.jpg" alt="Picture of cat Cinnamon" title="Cinnamon" caption="Killer" >}}
-{{< figure src="bob_bag.jpg" alt="Picture of cat Bob" title="Bob" caption="Killer" >}}
+{{< figure src="sadie1.jpg" alt="Picture of cat Sadie" title="Sadie" >}}
+{{< figure src="cin1.jpg" alt="Picture of cat Cinnamon" title="Cinnamon" >}}
+{{< figure src="bob_bag.jpg" alt="Picture of cat Bob" title="Bob" >}}

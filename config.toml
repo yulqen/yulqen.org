@@ -12,6 +12,7 @@ pygmentsUseClasses = true
   dark = "off"
   highlight = true
   custom_css = ["css/style.css"]
+  mainSections = ['blog', 'about']
 
 [menu]
   [[menu.main]]
@@ -26,6 +27,20 @@ pygmentsUseClasses = true
     name = "about"
     title = "about"
     url = "/about/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "tags"
+    name = "tags"
+    title = "Tags"
+    url = "/tags/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "categories"
+    name = "categories"
+    title = "Categories"
+    url = "/categories/"
     weight = 20
 
 [permalinks]
