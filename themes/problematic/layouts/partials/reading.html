@@ -1,0 +1,9 @@
+<h3>Reading by day</h3>
+<ul id="reading">
+  {{ range where site.RegularPages "Section" "reading" }}
+  <li>
+    <a href="{{ .Permalink }}">{{ .Title }}</a><br>
+    {{ .Summary }}
+  </li>
+  {{ end }}
+</ul>
