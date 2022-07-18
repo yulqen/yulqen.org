@@ -43,6 +43,15 @@ Chris Packham - if you're reading this, you're right. Locking the cats out at ni
 	</thead>
 	<tbody>
 		<tr>
+			<td>18 July 2022</td>
+			<td>Rodent</td>
+			<td>Shrew</td>
+			<td>Alive</td>
+			<td>NA</td>
+			<td>NA</td>
+			<td>No remains upon waking this morning but a shrew trotted into the living room at about 8am, remarkably unaffected by its unwilling invitation into the house. The cats eventually coalesced around it's hidy-hole before being locked out, unimpressed. Eventually we trapped the little guy under a plant pot and released him into the blistering heat and the verge opposite the front of the house.</td>
+		</tr>
+		<tr>
 			<td>17 July 2022</td>
 			<td>Bird</td>
 			<td>Sparrow</td>
