@@ -17,38 +17,43 @@ pygmentsUseClasses = true
 [menu]
   [[menu.main]]
     identifier = "blog"
-    name = "blog"
+    name = "Blog"
     title = "blog"
     url = "/blog/"
     weight = 10
+    pre = '| '
 
   [[menu.main]]
     identifier = "about"
-    name = "about"
+    name = "About"
     title = "about"
     url = "/about/"
     weight = 20
+    pre = '| '
 
   [[menu.main]]
     identifier = "reading"
-    name = "reading"
+    name = "Reading"
     title = "Reading"
     url = "/reading/"
     weight = 20
+    pre = '| '
 
   [[menu.main]]
     identifier = "tags"
-    name = "tags"
+    name = "Tags"
     title = "Tags"
     url = "/tags/"
     weight = 20
+    pre = '| '
 
   [[menu.main]]
     identifier = "categories"
-    name = "categories"
+    name = "Categories"
     title = "Categories"
     url = "/categories/"
     weight = 20
+    pre = '| '
 
 [permalinks]
   posts = "/:title/"
