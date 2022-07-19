@@ -2,6 +2,7 @@
 title: "How to connect to Wifi using nmcli"
 date: 2021-05-18T17:17:03+01:00
 draft: false
+categories: ['Computing']
 ---
 
 Something I've been enjoying on OpenBSD is the relative simplicity of

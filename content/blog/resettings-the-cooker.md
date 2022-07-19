@@ -2,6 +2,7 @@
 title: "Resetting the Cooker"
 date: 2021-05-19T20:53:04+01:00
 draft: false
+categories: ['Uncategorised']
 ---
 
 In particular - a Howden's cooker:

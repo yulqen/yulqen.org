@@ -2,6 +2,7 @@
 title: "Remind me to read..."
 date: 2021-05-20T17:05:00+01:00
 draft: false
+categories: ['Reading']
 ---
 
 #### Articles on the web

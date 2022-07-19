@@ -41,6 +41,16 @@ figcaption {
 /*   width: 50%; */
 /* } */
 
+table, tr {
+  border: 1px solid black;
+  padding: 1px;
+  margin: 1px;
+  border-collapse: collapse;
+  font-size: 13px;
+  width: 100%;
+  table-layout: auto;
+}
+
 body {
   font-family: serif;
   font-size: 18px;

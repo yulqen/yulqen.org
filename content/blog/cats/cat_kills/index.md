@@ -20,16 +20,16 @@ I have decided to resume updating this. Best way to do it is to include a new ta
 
 Chris Packham - if you're reading this, you're right. Locking the cats out at night *does* result in a higher kill-rate. It's less hassle for us but more hassle for the birds. Lesson learned, but we're not doing anything about it yet. Let's watch the numbers.
 
-<table style="font-size:13px; width:92%; padding:2px; margin:2px;">
-	<colgroup>
-		<col span="1" style="width:30%;" />
-		<col \>
-		<col \>
-		<col span="1" style="width:15%" />
-		<col \>
-		<col \>
-		<col style="width:40%">
-	</colgroup>
+<table>
+    <colgroup>
+       <col span="1" style="width: 10%;">
+       <col span="1" style="width: 5%;">
+       <col span="1" style="width: 15%;">
+       <col span="1" style="width: 15%;">
+       <col span="1" style="width: 15%;">
+       <col span="1" style="width: 5%;">
+       <col span="1" style="width: 40%;">
+    </colgroup>
 	<thead>
 		<tr class="header">
 			<th>Date</th>
@@ -38,10 +38,19 @@ Chris Packham - if you're reading this, you're right. Locking the cats out at ni
 			<th>Kill Type</th>
 			<th>Killer</th>
 			<th>Suspect Killer</th>
-			<th>Comments</th>
+			<th style="width:60%">Comments</th>
 		</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>18 July 2022</td>
+			<td>Bird</td>
+			<td>Unknown</td>
+			<td>Missing presumed dead</td>
+			<td>Unknown</td>
+			<td>NA</td>
+			<td>Just a pile of feathers (probably of a young bird) outside the back door. The body would have been brought inside had we not locked the flap last night.</td>
+		</tr>
 		<tr>
 			<td>18 July 2022</td>
 			<td>Rodent</td>
@@ -69,15 +78,16 @@ Chris Packham - if you're reading this, you're right. Locking the cats out at ni
 <p><em>After an active period in May, the kill-rate has slowed a bit, but we
 suspect we're not seeing the victims...</em></p>
 
-<table style="font-size:10px; width:92%; padding:2px; margin:2px;">
+<table>
 	<colgroup>
-		<col span="1" style="width:30%;" />
-		<col \>
-		<col \>
-		<col span="1" style="width:15%" />
-		<col \>
-		<col \>
-		<col style="width:40%">
+       <col span="1" style="width: 10%;">
+       <col span="1" style="width: 5%;">
+       <col span="1" style="width: 15%;">
+       <col span="1" style="width: 15%;">
+       <col span="1" style="width: 15%;">
+       <col span="1" style="width: 5%;">
+       <col span="1" style="width: 40%;">
+	<col style="width:40%">
 	</colgroup>
 	<thead>
 		<tr class="header">

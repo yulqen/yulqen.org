@@ -2,6 +2,7 @@
 title: "Heatwave - July 2022"
 date: 2022-07-18T13:31:13+01:00
 draft: false
+categories: ['Uncategorised']
 ---
 
 The country is in meltdown, for two whole days. Dire warnings are being made about the threat to life and many schools are closed. "Climate change in action" once again?

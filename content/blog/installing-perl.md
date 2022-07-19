@@ -3,6 +3,7 @@ title: Installing Perl After A Wee Break
 author: M R Lemon
 date: 2021-10-23
 draft: false
+categories: ['Computing']
 ---
 
 # Context
