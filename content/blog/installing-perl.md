@@ -6,9 +6,11 @@ draft: false
 categories: ['Computing']
 ---
 
+('Wee break' as in a short period of time (Scottish), not a 'wee break' like in televised snooker, tennis, etc).
+
 ### Context
 In October 2021 I was setting up the x220 with a new environment (KDE, Arch,
-etc). I wanted Perl, so this is what I did.
+etc) [UPDATE July 2022: KDE, honestly??]. I wanted Perl, so this is what I did.
 
 I also wanted to run my `on-add_scheduled_work_task.pl` script for adding lines
 to the remote REMIND instance in taskwarrior. Additional CPAN modules needed
