@@ -18,7 +18,7 @@ Here then is a simple list of slaughtered fauna for 2021.
 
 I have decided to resume updating this. Best way to do it is to include a new table for 2022. As of 17 July 2022, I've missed about two hundred kills this year, but what the hell - no time like the present.
 
-Chris Packham - if you're reading this, you're right. Locking the cats out at night *does* result in a higher kill-rate. It's less hassle for us but more hassle for the birds. Lesson learned, but we're not doing anything about it yet. Let's watch the numbers.
+Chris Packham - if you're reading this, you're right. Locking the cats out at night *does* result in a higher kill-rate. Less hassle for us but more hassle for the birds. Lesson learned.
 
 <table>
     <colgroup>
@@ -31,7 +31,7 @@ Chris Packham - if you're reading this, you're right. Locking the cats out at ni
        <col span="1" style="width: 40%;">
     </colgroup>
 	<thead>
-		<tr class="header">
+		<tr class="header" style="background-color: lightgray;">
 			<th>Date</th>
 			<th>Super species</th>
 			<th>Specific species</th>
@@ -58,7 +58,7 @@ Chris Packham - if you're reading this, you're right. Locking the cats out at ni
 			<td>Alive</td>
 			<td>NA</td>
 			<td>NA</td>
-			<td>No remains upon waking this morning but a shrew trotted into the living room at about 8am, remarkably unaffected by its unwilling invitation into the house. The cats eventually coalesced around it's hidy-hole before being locked out, unimpressed. Eventually we trapped the little guy under a plant pot and released him into the blistering heat and the verge opposite the front of the house.</td>
+			<td>No remains this morning but a shrew trotted into the living room at about 8am having been carried in by someone's murderous jaws at some point during the night. Eventually we trapped it under a plant pot and released it out the front. Shrews make a lot of noise when stressed!</td>
 		</tr>
 		<tr>
 			<td>17 July 2022</td>
@@ -90,7 +90,7 @@ suspect we're not seeing the victims...</em></p>
 	<col style="width:40%">
 	</colgroup>
 	<thead>
-		<tr class="header">
+		<tr class="header" style="background-color: lightgray;">
 			<th>Date</th>
 			<th>Super species</th>
 			<th>Specific species</th>
