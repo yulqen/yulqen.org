@@ -6,7 +6,7 @@ draft: false
 categories: ['Computing']
 ---
 
-# Context
+### Context
 In October 2021 I was setting up the x220 with a new environment (KDE, Arch,
 etc). I wanted Perl, so this is what I did.
 
@@ -19,7 +19,7 @@ for this to work:
 * `DateTime-Format-ISO8601`
 * `Net::OpenSSH`
 
-# Installation steps
+### Installation steps
 
 * Install `perlbrew`. Follow the [instructions](https://perlbrew.pl/) to install it.
 * `perlbrew install perl-5-34.0`. This can take a WHILE so `tail -f` the
@@ -32,5 +32,5 @@ install properly. This works.
 * Then I wanted `JSON` so I did `cpanm JSON`. Because we installed `cpanm`
 using perlbrew it went into the right place.
 
-This is pretty much it. You can punch away now.
+This is pretty much it.
 
