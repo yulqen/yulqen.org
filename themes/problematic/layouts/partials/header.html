@@ -4,6 +4,7 @@
             {{ range .Site.Menus.main.ByWeight -}}
                 {{ .Pre }}<a href="{{ .URL }}" title="{{ .Title }}">{{- .Name -}}</a> {{ .Post }}
             {{- end }}
+            <a href="https://yulqen.org/index.xml">RSS</a>
     </nav>
     <hr class="new1">
 </header>
