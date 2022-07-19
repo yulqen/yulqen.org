@@ -1,6 +1,16 @@
-<h3>Posts</h3>
-<ul id="posts">
-{{- range where site.RegularPages "Type" "in" site.Params.mainSections }}
-    {{ .Render "li" }}
-{{- end }}
-</ul>
+<h2>Blog Posts</h2>
+
+{{ range $key, $value := .Site.Taxonomies.categories }}
+
+ <h3>{{ $key | title }}</h3> 
+
+ <ul>
+   
+  {{ range where site.RegularPages ".Params.categories" "intersect" (slice ($key |title)) }}
+  <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+  {{ end }}
+
+ </ul>
+
+{{ end }}
+

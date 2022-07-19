@@ -4,6 +4,7 @@ date: 2022-07-17T07:46:14+01:00
 slug: create_new_partition_openbsd
 draft: false
 tags: ['openbsd']
+categories: ["Computing"]
 ---
 
 1. When I installed OpenBSD, the autoinstaller created a partition table for me. Interestingly (and I only just discovered this), it left a percentage of the disk free. This is a brilliant strategy, because it saves you having to do a lot of annoying resizing when you want to change things. In my case, I wanted to add a new partition of about 10G or so, for a `/jails` thing - check out [https://www.tubsta.com/2020/01/creating-a-chroot-in-openbsd/](https://www.tubsta.com/2020/01/creating-a-chroot-in-openbsd/).
