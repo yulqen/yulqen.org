@@ -19,22 +19,21 @@ tags: ['openbsd']
 1. `w` the parition. But notice - it did not create the mount point! I was a bit confused about that. I wanted to create the mount point now! But I couldn't - not even `disklabel` - the `m` option (modify) let me do it, and I'm damn sure the man pages say you can do it that way.
 1. By this time, I was resorting to using another *web page* (sorry, OpenBSD man pages): [https://cvs.afresh1.com/~andrew/o/faq/faq14.html](https://cvs.afresh1.com/~andrew/o/faq/faq14.html). After creating the partition, I now had to create a new file system on it. I did that with `# newfs sd2m`. At this point I could happily mount it, and I did: `# mount /dev/sd2m /jails`. THEN, I added it to `/etc/fstab` - For this, I reverted back to the original tutorial to get the correct flags ([https://www.tubsta.com/2020/01/creating-a-chroot-in-openbsd/](https://www.tubsta.com/2020/01/creating-a-chroot-in-openbsd/)), - this is how it looks in `/etc/fstab`:
 
-```console
-7da04eb499cd98e3.b none swap sw
-7da04eb499cd98e3.a / ffs rw,softdep,noatime 1 1
-7da04eb499cd98e3.l /home ffs rw,softdep,noatime,nodev,nosuid 1 2
-7da04eb499cd98e3.d /tmp ffs rw,softdep,noatime,nodev,nosuid 1 2
-7da04eb499cd98e3.f /usr ffs rw,softdep,noatime,nodev 1 2
-7da04eb499cd98e3.g /usr/X11R6 ffs rw,softdep,noatime,nodev 1 2
-7da04eb499cd98e3.h /usr/local ffs rw,softdep,noatime,wxallowed,nodev 1 2
-7da04eb499cd98e3.k /usr/obj ffs rw,softdep,noatime,nodev,nosuid 1 2
-7da04eb499cd98e3.j /usr/src ffs rw,softdep,noatime,nodev,nosuid 1 2
-7da04eb499cd98e3.e /var ffs rw,softdep,noatime,nodev,nosuid 1 2
-7da04eb499cd98e3.m /jails ffs rw 1 2
-swap /tmp mfs rw,nodev,nosuid,-s=800m 0 0
-swap /home/lemon/.cache mfs rw,nodev,nosuid,-s=3g 0 0
-```
-There is is, near the bottom: `/jails`.
-
+    ```console
+    7da04eb499cd98e3.b none swap sw
+    7da04eb499cd98e3.a / ffs rw,softdep,noatime 1 1
+    7da04eb499cd98e3.l /home ffs rw,softdep,noatime,nodev,nosuid 1 2
+    7da04eb499cd98e3.d /tmp ffs rw,softdep,noatime,nodev,nosuid 1 2
+    7da04eb499cd98e3.f /usr ffs rw,softdep,noatime,nodev 1 2
+    7da04eb499cd98e3.g /usr/X11R6 ffs rw,softdep,noatime,nodev 1 2
+    7da04eb499cd98e3.h /usr/local ffs rw,softdep,noatime,wxallowed,nodev 1 2
+    7da04eb499cd98e3.k /usr/obj ffs rw,softdep,noatime,nodev,nosuid 1 2
+    7da04eb499cd98e3.j /usr/src ffs rw,softdep,noatime,nodev,nosuid 1 2
+    7da04eb499cd98e3.e /var ffs rw,softdep,noatime,nodev,nosuid 1 2
+    7da04eb499cd98e3.m /jails ffs rw 1 2
+    swap /tmp mfs rw,nodev,nosuid,-s=800m 0 0
+    swap /home/lemon/.cache mfs rw,nodev,nosuid,-s=3g 0 0
+    ```
+1. There it is, near the bottom: `/jails`.
 1. I rebooted, and prayed. I've had problems with fstab in the past. But not this time!
 1. Everything fired back up and all was well!

@@ -15,6 +15,10 @@
   box-sizing: border-box;
 }
 
+.content-list {
+  margin-bottom: 1.2em;
+}
+
 nav {
   margin-bottom: 2em;
 }
@@ -51,7 +55,7 @@ figcaption {
 /* } */
 
 body {
-  font-family: 'RobotoSlab-Regular', serif;
+  font-family: serif, "RobotoSlab-Regular";
   font-size: 18px;
   margin-left: auto;
   margin-right: auto;
