@@ -2,6 +2,7 @@
 title: "Enable WASM in OpenBSD Chromium"
 date: 2021-05-17T20:54:01+01:00
 draft: false
+categories: ['Computing']
 ---
 
 We all need to be able to use Zoom nowadays, as much as I hate it.
