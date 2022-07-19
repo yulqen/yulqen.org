@@ -20,7 +20,7 @@ I have decided to resume updating this. Best way to do it is to include a new ta
 
 Chris Packham - if you're reading this, you're right. Locking the cats out at night *does* result in a higher kill-rate. It's less hassle for us but more hassle for the birds. Lesson learned, but we're not doing anything about it yet. Let's watch the numbers.
 
-<table style="font-size:10px; width:92%; padding:2px; margin:2px;">
+<table style="font-size:13px; width:92%; padding:2px; margin:2px;">
 	<colgroup>
 		<col span="1" style="width:30%;" />
 		<col \>

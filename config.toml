@@ -21,7 +21,7 @@ pygmentsUseClasses = true
     title = "blog"
     url = "/blog/"
     weight = 10
-    pre = '| '
+    post = '| '
 
   [[menu.main]]
     identifier = "about"
@@ -29,23 +29,7 @@ pygmentsUseClasses = true
     title = "about"
     url = "/about/"
     weight = 20
-    pre = '| '
-
-  [[menu.main]]
-    identifier = "reading"
-    name = "Reading"
-    title = "Reading"
-    url = "/reading/"
-    weight = 20
-    pre = '| '
-
-  [[menu.main]]
-    identifier = "tags"
-    name = "Tags"
-    title = "Tags"
-    url = "/tags/"
-    weight = 20
-    pre = '| '
+    post = '| '
 
   [[menu.main]]
     identifier = "categories"
@@ -53,7 +37,23 @@ pygmentsUseClasses = true
     title = "Categories"
     url = "/categories/"
     weight = 20
-    pre = '| '
+    post = '| '
+
+  [[menu.main]]
+    identifier = "reading"
+    name = "Reading"
+    title = "Reading"
+    url = "/reading/"
+    weight = 20
+    post = '| '
+
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    title = "Tags"
+    url = "/tags/"
+    weight = 20
+
 
 [permalinks]
   posts = "/:title/"
