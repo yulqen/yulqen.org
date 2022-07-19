@@ -7,7 +7,7 @@
  <ul>
   
 
-  {{ range where site.RegularPages ".Params.categories" "intersect" (slice ($key |title)) }}
+  {{ range where (where site.RegularPages "Section" "blog") ".Params.categories" "intersect" (slice ($key |title)) }}
   <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
   {{ end }}
 
