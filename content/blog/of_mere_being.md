@@ -14,3 +14,7 @@ Stevens' poetry defies explanation and that is an enigmatic and wonderful first 
 For me this poem has such a baking glow: the palm, the gold-feathered bird, the bronze. The palm brings the heat and the desert. And all of it at the "end" of the mind. At a boundary of space and time, when the mind and reason matters no longer, far from meaning.
 
 That's what poetry can and should be.
+
+## Further appreciation and comment
+
+- [The Poem](https://ofmerebeing.com/the-poem/)
