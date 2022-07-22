@@ -43,7 +43,16 @@ Chris Packham - if you're reading this, you're right. Locking the cats out at ni
 	</thead>
 	<tbody>
 		<tr>
-			<td>18 July 2022</td>
+			<td>22 July 2022</td>
+			<td>Rodent</td>
+			<td>Shrew</td>
+			<td>DOA</td>
+			<td>Unknown</td>
+			<td>NA</td>
+			<td>Just a dead shrew on the carpet, a few long blades of grass alongside it suggesting it put up a fight. RIP.</td>
+		</tr>
+		<tr>
+			<td>19 July 2022</td>
 			<td>Bird</td>
 			<td>Unknown</td>
 			<td>Missing presumed dead</td>
