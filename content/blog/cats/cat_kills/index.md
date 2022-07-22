@@ -20,66 +20,7 @@ I have decided to resume updating this. Best way to do it is to include a new ta
 
 Chris Packham - if you're reading this, you're right. Locking the cats out at night *does* result in a higher kill-rate. Less hassle for us but more hassle for the birds. Lesson learned.
 
-<table>
-    <colgroup>
-       <col span="1" style="width: 10%;">
-       <col span="1" style="width: 5%;">
-       <col span="1" style="width: 15%;">
-       <col span="1" style="width: 15%;">
-       <col span="1" style="width: 15%;">
-       <col span="1" style="width: 5%;">
-       <col span="1" style="width: 40%;">
-    </colgroup>
-	<thead>
-		<tr class="header" style="background-color: lightgray;">
-			<th>Date</th>
-			<th>Super species</th>
-			<th>Specific species</th>
-			<th>Kill Type</th>
-			<th>Killer</th>
-			<th>Suspect Killer</th>
-			<th style="width:60%">Comments</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>22 July 2022</td>
-			<td>Rodent</td>
-			<td>Shrew</td>
-			<td>DOA</td>
-			<td>Unknown</td>
-			<td>NA</td>
-			<td>Just a dead shrew on the carpet, a few long blades of grass alongside it suggesting it put up a fight. RIP.</td>
-		</tr>
-		<tr>
-			<td>19 July 2022</td>
-			<td>Bird</td>
-			<td>Unknown</td>
-			<td>Missing presumed dead</td>
-			<td>Unknown</td>
-			<td>NA</td>
-			<td>Just a pile of feathers (probably of a young bird) outside the back door. The body would have been brought inside had we not locked the flap last night.</td>
-		</tr>
-		<tr>
-			<td>18 July 2022</td>
-			<td>Rodent</td>
-			<td>Shrew</td>
-			<td>Alive</td>
-			<td>NA</td>
-			<td>NA</td>
-			<td>No remains this morning but a shrew trotted into the living room at about 8am having been carried in by someone's murderous jaws at some point during the night. Eventually we trapped it under a plant pot and released it out the front. Shrews make a lot of noise when stressed!</td>
-		</tr>
-		<tr>
-			<td>17 July 2022</td>
-			<td>Bird</td>
-			<td>Sparrow</td>
-			<td>DOA</td>
-			<td>Unknown</td>
-			<td>NA</td>
-			<td>Mullered corpse lying in bloom of feathers on the utility room floor upon waking this morning. Do most of my hoovering in pyjamas nowadays.</td>
-		</tr>
-	</tbody>
-</table>
+{{< cat_kill_log_table >}}
 
 
 #### Current analysis as of 21 June 2021:

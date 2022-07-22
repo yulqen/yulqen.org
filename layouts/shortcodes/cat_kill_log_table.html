@@ -1,0 +1,35 @@
+<table>
+    <colgroup>
+       <col span="1" style="width: 10%;">
+       <col span="1" style="width: 5%;">
+       <col span="1" style="width: 15%;">
+       <col span="1" style="width: 15%;">
+       <col span="1" style="width: 15%;">
+       <col span="1" style="width: 5%;">
+       <col span="1" style="width: 40%;">
+    </colgroup>
+	<thead>
+		<tr class="header" style="background-color: lightgray;">
+			<th>Date</th>
+			<th>Super species</th>
+			<th>Specific species</th>
+			<th>Kill Type</th>
+			<th>Killer</th>
+			<th>Suspect Killer</th>
+			<th style="width:60%">Comments</th>
+		</tr>
+	</thead>
+	<tbody>
+    {{ range .Site.Data.cat_kills.cat_kills }}
+      <tr>
+        <td>{{ .date }}</td>
+        <td>{{ .super_species }}</td>
+        <td>{{ .specific_species }}</td>
+        <td>{{ .kill_type }}</td>
+        <td>{{ .killer }}</td>
+        <td>{{ .suspect_killer }}</td>
+        <td>{{ .comments }}</td>
+      </tr>
+    {{ end }}
+	</tbody>
+</table>
