@@ -5,7 +5,7 @@ cat_kills:
     kill_type: "DOA"
     killer: "Unknown"
     suspect_killer: "Unknown"
-    comments: "Dumped outside the backdoor on its back."
+    comments: "Dumped outside the backdoor. Supine."
   - date: "22 July 2022"
     super_species: "Rodent"
     specific_species: "Shrew"
