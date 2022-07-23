@@ -3,6 +3,7 @@ title: "Seagulls, Saturday, Berwick"
 date: 2022-07-23T17:20:07+01:00
 draft: false
 categories: ['Uncategorised']
+tags: ['berwick-upon-tweed']
 ---
 
 We went to [The Granary Gallery](https://www.thegalleryguide.co.uk/galleries/granary-gallery) in Berwick today for a coffee and the weather was nice enough to take it outside.
