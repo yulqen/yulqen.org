@@ -7,5 +7,6 @@
 </style>
 
 <h2 class="title">{{ .Title }}</h2>
+{{ .Date.Format "Monday, 2 January 2006"  }}
 {{ .Content }}
 {{ end }}

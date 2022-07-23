@@ -8,7 +8,7 @@
   
 
   {{ range where (where site.RegularPages "Section" "blog") ".Params.categories" "intersect" (slice ($key |title)) }}
-  <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+  <li><a href="{{ .Permalink }}">{{ .Title }}</a> ({{ .Date.Format "2 Jan 06" }})</li>
   {{ end }}
 
  </ul>
