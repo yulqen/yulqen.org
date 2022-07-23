@@ -14,7 +14,7 @@ I've been lured into both the analogue and the digital implementations of PKM, h
 
 I got sick of them all.
 
-As my parsimony towards software increased over the last year or so, and I adopted OpenBSD as something of a home, I've become more comfortable on the command line and written my own scipts to take take, name, save and locate notes. I stopped worrying about trying to link plain text files when I said goodbye to [Vimwiki](https://vimwiki.github.io/) and instead concluded that all I needed was `grep`. There's nothing cool about it, but I can capture links and information at lightning speed - and even find them again given a bit of patience.
+As my parsimony towards software increased over the last year or so, and I adopted OpenBSD as something of a home, I've become more comfortable on the command line and written my own scipts to take, name, save and locate notes. I stopped worrying about trying to link plain text files when I said goodbye to [Vimwiki](https://vimwiki.github.io/) and instead concluded that all I needed was `grep`. There's nothing cool about it, but I can capture links and information at lightning speed - and even find them again given a bit of patience.
 
 Admittedly, my "system" is knowhere on the [Data, Information, Knowledge, Wisdom](https://www.systems-thinking.org/dikw/dikw.htm) spectrum, and it doesn't help me do anything but log events, take snapshot thoughts and take notes for work. Regardless. Although of course I would like to develop towards the upper eschelons of knowledge, I'm cynical to the hype and I agree with Scott Scheper that Roam, Obsidian, the "Second Brain" and all the rest of the frameworks don't do much to get you there either. But they do sell books and courses and garner Twitter interest.
 
