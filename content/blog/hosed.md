@@ -2,7 +2,7 @@
 title: "Hosed"
 date: 2022-07-24T20:40:04+01:00
 draft: false
-categories: ['Uncategorised']
+categories: ['Spam']
 tags: ['berwick-upon-tweed']
 ---
 
