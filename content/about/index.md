@@ -7,7 +7,7 @@ slug: "about"
 
 Yulqen is a deliberate misspelling of an [Autechre](https://en.wikipedia.org/wiki/Autechre) song I like.
 
-I currently live in [Berwick-upon-Tweed](https://en.wikipedia.org/wiki/Berwick-upon-Tweed). I enjoy technology, programming, music, rugby, poetry and books. I am something of a minimalist when it comes to software and do most things in a terminal.
+I currently live in [Berwick-upon-Tweed](https://en.wikipedia.org/wiki/Berwick-upon-Tweed). I enjoy technology, programming, music, rugby, animals, poetry and books. I am something of a minimalist when it comes to software and do most things in a terminal.
 
 This is my umpteenth web site and it will dutifully disappear in time. Or change to a [pandoc](https://pandoc.org)-driven site.
 
