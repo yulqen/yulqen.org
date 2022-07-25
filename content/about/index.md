@@ -7,9 +7,14 @@ slug: "about"
 
 Yulqen is a deliberate misspelling of an [Autechre](https://en.wikipedia.org/wiki/Autechre) song I like.
 
-I currently live in [Berwick-upon-Tweed](https://en.wikipedia.org/wiki/Berwick-upon-Tweed). I enjoy technology, programming, music, rugby, animals, poetry and books. I am something of a minimalist when it comes to software and do most things in a terminal.
+I currently live in [Berwick-upon-Tweed](https://en.wikipedia.org/wiki/Berwick-upon-Tweed). I enjoy technology & software (the free, as in speech, kind), programming, music, photography, rugby, animals, poetry and books. I am something of a minimalist and do most things in a terminal. I am a pescatarian but will eat meat if sufficiently drunk and starving. I don't like cruelty, including the "...to animals" kind.
 
-This is my umpteenth web site and it will dutifully disappear in time. Or change to a [pandoc](https://pandoc.org)-driven site.
+This is my umpteenth web site and it will dutifully disappear in time. It is currently created using [Hugo](https://gohugo.io/) making it: blazing fast, not Wordpress, static, light (no JS, therefore no BS), driven by Go and [rsyncable](https://man.openbsd.org/openrsync).
+
+Meaty, permanent and sustaining wisdom is filed inside [Blog](/blog). Ephemeral nonsense goes in [Stream](/stream), my antisocial feed. Neither qualification is a given. *Sometimes the really good stuff may leak out into the dailies!* RSS remains the syndication tool of choice.
+
+Quick pics will be processed using only [ImageMagick](https://imagemagick.org/script/index.php) but I do really like [GIMP](https://www.gimp.org/) and if I start putting up photos in earnest, GIMP wil be there one.
+
 
 I have [three cats that kill](../blog/cats/cat_kills/).
 
