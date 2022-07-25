@@ -1,1 +1,1 @@
-Short temporal updates for my benefit. Antisocial.
+*Short temporal updates. Antisocial.*
