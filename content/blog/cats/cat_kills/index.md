@@ -3,6 +3,7 @@ title: "Cat Kill Log"
 date: 2021-06-21T18:30:49+01:00
 draft: false
 categories: ["Cats"]
+tags: ['cats']
 ---
 
 Ah, springtime! A time of awakening, rebirth, burgeoning buds - and avian
