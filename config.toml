@@ -12,7 +12,7 @@ pygmentsUseClasses = true
   dark = "off"
   highlight = true
   custom_css = ["css/style.css"]
-  mainSections = ['blog', 'about', 'reading']
+  mainSections = ['blog', 'about', 'stream', 'reading']
 
 [menu]
   [[menu.main]]
@@ -21,6 +21,14 @@ pygmentsUseClasses = true
     title = "blog"
     url = "/blog/"
     weight = 10
+    post = '| '
+
+  [[menu.main]]
+    identifier = "stream"
+    name = "Stream"
+    title = "Stream"
+    url = "/stream/"
+    weight = 20
     post = '| '
 
   [[menu.main]]

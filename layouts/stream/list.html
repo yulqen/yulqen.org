@@ -1,0 +1,12 @@
+{{ define "main" }}
+<h2>{{ with .Site.GetPage "section" "stream" }}{{ .Title }}{{ end }}</h2>
+
+{{ .Content }}
+
+{{ range where site.RegularPages "Section" "stream"  }}
+  <h3>{{ .Date.Format "Monday, 2 January 2006" }}</h3>
+  {{ .Content }}
+  <hr class="new1">
+{{ end }}
+
+{{ end }}
