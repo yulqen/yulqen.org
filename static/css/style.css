@@ -31,7 +31,7 @@ hr.new1 {
 }
 
 figcaption {
-	font-size: 0.69em;
+	font-size: 0.75em;
 }
 
 /* img { */
@@ -40,6 +40,11 @@ figcaption {
 /*   margin-right: auto; */
 /*   width: 50%; */
 /* } */
+
+img {
+  width: 100%;
+  height: auto
+}
 
 table, tr {
   border: 1px solid black;
