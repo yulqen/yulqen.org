@@ -7,7 +7,7 @@ slug: "about"
 
 Yulqen is a deliberate misspelling of an [Autechre](https://en.wikipedia.org/wiki/Autechre) song I like.
 
-I currently live in [Berwick-upon-Tweed](https://en.wikipedia.org/wiki/Berwick-upon-Tweed). I enjoy technology & software (the free, as in speech, kind), programming, music, photography, rugby, animals, poetry and books. I am something of a minimalist and do most things in a terminal. I am a pescatarian but will eat meat if sufficiently drunk and starving. I don't like cruelty, including the "...to animals" kind.
+I currently live in [Berwick-upon-Tweed](https://en.wikipedia.org/wiki/Berwick-upon-Tweed). I enjoy technology & software (the free, as in speech, kind), programming, music, photography, rugby, animals, poetry and books. I am something of a minimalist and do most things in a terminal. I am a pescatarian but will eat meat if sufficiently drunk and (apparently) starving.
 
 This is my umpteenth web site and it will dutifully disappear in time. It is currently created using [Hugo](https://gohugo.io/) making it: blazing fast, not Wordpress, static, light (no JS, therefore no BS), driven by Go and [rsyncable](https://man.openbsd.org/openrsync).
 
