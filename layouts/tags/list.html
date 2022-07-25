@@ -1,13 +1,11 @@
 {{ define "main" }}
 
-{{ .Content }}
-
 <main>
   <div>
     <h2>{{ .Title }}</h2>
     <p><a href="/stream/">Stream</a> pages can also receive tags.</p>
     <ul>
-    {{ range .Pages }}
+    {{ range .Pages.ByTitle }}
       {{ if eq .Section "stream"}}
           {{ $url := (.Date.Format "Monday 2 January 2006") | urlize }}
           <li>Stream: <a href="/stream/#{{ $url }}">{{ .Date.Format "Monday 2 January 2006" }}</a></li>
