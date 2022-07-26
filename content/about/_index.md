@@ -2,7 +2,6 @@
 title: "Yulqen - About this site"
 date: 2021-05-17T19:45:46+01:00
 draft: false
-slug: "about"
 ---
 
 Yulqen is a deliberate misspelling of an [Autechre](https://en.wikipedia.org/wiki/Autechre) song I like.
