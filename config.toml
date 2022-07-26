@@ -61,7 +61,6 @@ pygmentsUseClasses = true
     title = "Tags"
     url = "/tags/"
     weight = 20
-    post = '| '
 
 
 [permalinks]
