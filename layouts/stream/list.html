@@ -1,5 +1,7 @@
 {{ define "main" }}
 
+{{ .Content }}
+
 {{ range where site.RegularPages "Section" "stream" }}
 <h3 id="{{ .Date.Format "Monday, 2 January 2006"| urlize}}">{{ .Date.Format "Monday, 2 January 2006" }}</h3>
 
