@@ -3,7 +3,7 @@
 <main>
   <div>
     <h2>{{ .Title }}</h2>
-    <p><a href="/stream/">Stream</a> pages can also receive tags.</p>
+    {{ .Content }}
     <ul>
     {{ range .Pages.ByTitle }}
       {{ if eq .Section "stream"}}
