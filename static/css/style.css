@@ -10,6 +10,10 @@ nav {
   margin-bottom: 2em;
 }
 
+hr {
+  border: 1px solid #e2e2e2;
+}
+
 hr.new1 {
   border: 1px solid #e2e2e2;
 }

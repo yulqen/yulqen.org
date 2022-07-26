@@ -1,4 +1,6 @@
-## Reading
+---
+title: Yulqen - Reading
+---
 
 I read a lot on the internet and would like to read more on paper, like the old days. My attention span is too feeble to sit down to read a book at this point, but I'm working on it.
 
