@@ -8,5 +8,20 @@
 
 <h2 class="title">{{ .Title }}</h2>
 {{ .Date.Format "Monday, 2 January 2006"  }}
+
 {{ .Content }}
+
+  {{ if .Params.tags }}
+  <div style="background-color: rgb(240, 240, 240);">
+    This post is tagged with: 
+        {{ range .Params.tags }}
+        <a href="{{ "tags" | absURL }}/{{ . | urlize }}">{{ . }}</a>
+        {{ end }}
+  {{ else }}
+    <div style="background-color: rgb(240, 240, 240); margin-top: 20px;">
+      This post is untagged. 
+    </div>
+  {{ end }}
+  </div>
+
 {{ end }}
