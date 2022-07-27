@@ -39,7 +39,7 @@ There is something about Perl I love, even though I don't really use it. When I 
 
 ### Haskell
 
-That didn't last long. I bought a [book](https://haskellbook.com/) and was intrigued by functional programming. But I'm not clever enough to last long in that environment. Getting completely lost tyring to configure [xmonad](https://hackage.haskell.org/package/xmonad) was the point where I switched off.
+That didn't last long. I bought a [book](https://haskellbook.com/) and was intrigued by functional programming. But I'm not clever enough to last long in that environment. Getting completely lost trying to configure [xmonad](https://hackage.haskell.org/package/xmonad) was the point where I switched off.
 
 ### C
 
