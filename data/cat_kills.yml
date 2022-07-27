@@ -1,4 +1,11 @@
 cat_kills:
+  - date: "27 July 2022"
+    super_species: "Rodent"
+    specific_species: "Shrew?"
+    kill_type: "DOA"
+    killer: "Unknown"
+    suspect_killer: "Unknown"
+    comments: "Found on the path and could have been dead for a few days. Ripped in two, the forehalf absent. Meat, back legs and a tail. So sorry my little friend."
   - date: "22 July 2022"
     super_species: "Rodent"
     specific_species: "Shrew"
