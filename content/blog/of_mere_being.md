@@ -3,6 +3,7 @@ title: "Of Mere Being - Wallace Stevens"
 date: 2022-07-21T16:01:52+01:00
 draft: false
 categories: ['Poetry']
+tags: ['poetry']
 ---
 
 Go [read Of Mere Being by Wallace Stevens](https://www.poetryfoundation.org/poems/57671/of-mere-being).
