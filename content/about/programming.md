@@ -2,6 +2,7 @@
 title: "Programming"
 date: 2022-07-27T07:41:37+01:00
 draft: false
+tags: ['code']
 ---
 
 ### BASIC
