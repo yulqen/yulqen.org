@@ -1,4 +1,11 @@
 cat_kills:
+  - date: "4 August 2022"
+    super_species: "Bat"
+    specific_species: "Common pipistrelle?"
+    kill_type: "NA"
+    killer: "NA"
+    suspect_killer: "NA"
+    comments: "Been a few days since the last kill but we returned home from Lindesfarne to find a tiny bat scrabbling for its life in the utility room sink. We released it on the verge outside the front. It was injured, but hopefully not fatally. Sometimes we hate our cats. "
   - date: "27 July 2022"
     super_species: "Rodent"
     specific_species: "Shrew?"
