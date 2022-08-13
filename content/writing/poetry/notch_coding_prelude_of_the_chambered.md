@@ -44,11 +44,11 @@ Edit: this is REALLY me when programming.
 Thank you for uploading all the streams he did to youtube. \
 Does he streams again building something to twitch?
 
-3D stuff in 3 hours... Super cool! \
+3D stuff in 3 hours... Super cool!
 
-Can anyone make a guide on how to build this? \
+Can anyone make a guide on how to build this?
 
-21:52 when he starts. \
+21:52 when he starts.
 
 Can anyone tell me the math or programming technique \
 or idea behind the workings \
