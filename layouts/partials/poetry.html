@@ -1,0 +1,11 @@
+<h2>Poetry</h2>
+
+<p>This is experimental.</p>
+
+<ul id="poetry">
+  {{ range where site.RegularPages "Section" "writing" }}
+  <li>
+    <a href="{{ .Permalink }}">{{ .Title }}</a>
+  </li>
+  {{ end }}
+</ul>
