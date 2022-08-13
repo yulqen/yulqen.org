@@ -1,5 +1,6 @@
 ---
 title: "Notch Coding Prelude of the Chambered"
+type: "writing/poetry"
 draft: false
 date: 2022-08-13
 categories: ['Poetry']
