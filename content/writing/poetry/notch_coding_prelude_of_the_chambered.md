@@ -1,14 +1,14 @@
 ---
 title: "Notch Coding Prelude of the Chambered"
 type: "writing/poetry"
-draft: false
+draft: true
 date: 2022-08-13
 categories: ['Poetry']
 ---
 
 This was originally streamed on August 20th 2021 on Justin.tv \
 A land long gone. \
-Thank you to Nicklaus Lof for archiving the first part. \
+Thank you to Nicklaus Löf for archiving the first part. \
 I tried to use machine learning to upscale the video \
 But none of the results gave me satisfactory results \
 So this is it ladies and gentlemen. \
