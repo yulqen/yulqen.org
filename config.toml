@@ -48,6 +48,14 @@ pygmentsUseClasses = true
     post = '| '
 
   [[menu.main]]
+    identifier = "poetry"
+    name = "Poetry"
+    title = "Poetry"
+    url = "/writing/poetry/"
+    weight = 20
+    post = '| '
+
+  [[menu.main]]
     identifier = "reading"
     name = "Reading"
     title = "Reading"
