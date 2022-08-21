@@ -1,4 +1,11 @@
 cat_kills:
+  - date: "21 August 2022"
+    super_species: "Rodent"
+    specific_species: "Mouse"
+    kill_type: "DOA"
+    killer: "Unknown"
+    suspect_killer: "Unknown"
+    comments: "Mouse carcass behind the kitchen door. Decapitated."
   - date: "4 August 2022"
     super_species: "Bat"
     specific_species: "Common pipistrelle?"
