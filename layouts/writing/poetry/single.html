@@ -8,6 +8,8 @@
 
 <h2 class="title">{{ .Title }}</h2>
 
+
 {{ .Content }}
 
+- {{ .Date.Format "2 Jan 2006" }}
 {{ end }}
