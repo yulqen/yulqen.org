@@ -1,5 +1,5 @@
 ---
-title: "Two bookish dualities"
+title: "Two books"
 date: 2022-07-23T20:54:20+01:00
 draft: false
 categories: ['Uncategorised']
