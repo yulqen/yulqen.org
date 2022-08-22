@@ -1,7 +1,7 @@
 ---
 title: "First Poem"
 type: "writing/poetry"
-draft: true
+draft: false
 date: 2022-08-22
 categories: ['Poetry']
 ---
