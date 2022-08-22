@@ -1,7 +1,7 @@
 ---
 title: "Being on the left of the bell curve"
 date: 2022-08-22T00:50:35+01:00
-draft: true
+draft: false
 categories: ['Uncategorised']
 tags: ['untagged']
 ---
