@@ -1,4 +1,4 @@
 ---
 title: 'Poetry'
-type: 'writing/poetry'
+type: 'writing/poems'
 ---

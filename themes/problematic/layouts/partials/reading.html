@@ -1,12 +1,26 @@
+
+<h3>Books</h3>
+
+Certainly not reviews, just scattered and inconsequential thoughts - when I actually read one.
+
+<ul id="reading">
+  {{ range where site.RegularPages "Type" "reading/books" }}
+  <li>
+    <a href="{{ .Permalink }}">{{ .Title }}</a>: {{ .Summary }}
+  </li>
+  {{ end }}
+</ul>
+
 <h3>Reading by day</h3>
 
 This is intended to be an ongoing log of longer-form material. Not sure if I will continue to list it by day - that might be over ambitious.
 
 <ul id="reading">
-  {{ range where site.RegularPages "Section" "reading" }}
+  {{ range where (where site.RegularPages "Section" "reading") "Params.daily_read"  true }} 
   <li>
     <a href="{{ .Permalink }}">{{ .Title }}</a>
-    {{ .Summary }}
+    : {{ .Summary }}
   </li>
   {{ end }}
 </ul>
+
