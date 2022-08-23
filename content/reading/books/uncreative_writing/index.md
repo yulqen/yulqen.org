@@ -10,7 +10,7 @@ summary: "Via Poem Talk and Christian B&ouml;k"
 
 When in the poetry mood (which isn't always), I have a penchant for listening to the podcast [Poem Talk](https://www.poetryfoundation.org/podcasts/series/74633/poemtalk), who manage to find meaning no poet could possibly intend in their own work.
 
-I listen to podcasts in one of two situations: listing in a hot bath or driving, alone, in the car.
+I listen to podcasts in one of two situations: listing in a hot bath or driving, alone.
 
 Enjoyment of the forensic analysis espoused by the roundtable of planet-brained academics on Poem Talk is, after a time, soured by their inevitable inclination towards identity politics, something that seems to infect much of the mainstream poetry coverage I've found online nowadays, so on this particular occasion I pulled in at [Southwaite Services](https://motorwayservices.uk/Southwaite) for a slash and a takeaway cuppa at Greggs.
 
