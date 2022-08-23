@@ -16,9 +16,9 @@ Enjoyment of the forensic analysis espoused by the roundtable of planet-brained 
 
 ### Christian B&ouml;k
 
-Sipping my brew and scrolling through alternatives in the car park, I found a podcast whose production values were such that (as I found out ten minutes later) the audio was barely audible above 40mph - but the poet being interviewed was a breath of fresh air.
+Sipping my brew and scrolling through alternatives before setting off, I found a podcast whose production values were such that (as I found out ten minutes later) the audio was barely audible above 40mph - but the poet being interviewed was a breath of fresh air.
 
-It was [Christian B&ouml;k](https://en.wikipedia.org/wiki/Christian_B%C3%B6k), a conceptual, experimental poety who's matter of fact talk of process-driven objectivity, poetry-infused DNA, univolics, visual poetry and poetry in science was a shot in the arm after the political platitudes from the sisterhood at Kelly Writers House. Go and read about Christian B&ouml;k - he's the real deal.
+It was [Christian B&ouml;k](https://en.wikipedia.org/wiki/Christian_B%C3%B6k), a conceptual, experimental poet who's matter of fact talk of process-driven objectivity, poetry-infused DNA, univolics, visual poetry and poetry in science was a shot in the arm after the political platitudes from the sisterhood at Kelly Writers House. Go and read about Christian B&ouml;k - he's the real deal.
 
 ### Kenneth Goldsmith
 
