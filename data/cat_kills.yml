@@ -1,4 +1,11 @@
 cat_kills:
+  - date: "4 September 2022"
+    super_species: "Rodent"
+    specific_species: "Mouse"
+    kill_type: "DOA"
+    killer: "Sadie"
+    suspect_killer: "NA"
+    comments: "Two carcasses in the kitchen this morning and another outside on the path. Sadie was in the kitchen when I went in this morning so takes the blame. A murderous night all right."
   - date: "21 August 2022"
     super_species: "Rodent"
     specific_species: "Mouse"
