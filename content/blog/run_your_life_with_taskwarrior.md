@@ -55,3 +55,42 @@ It is also open source and enables complete privacy, eschewing the proprietary c
 It seems odd to ask but it is a fair question: can taskwarrior be used as your primary task manager?
 
 Terminal people know the answer to that but anyone used to a browser/phone orientated application might think that they will lose a lot of functionality, not having their tasks available in any browser instance or on their phone. That is a fair point and can be addressed easily.
+
+Yes you can.
+But I am very much terminal based.
+I work at home for my job and use their laptop (a very locked-down Windows 10 machine typical of most corporate/Government jobs) and so continuously defer to the terminal on my own machines to access taskwarrior and my notes.
+
+But like most people, I like to have access to my tasks on my phone, although this isn't as important for me as the developers of other task management systems who prioritise their mobile app offering would like to think.
+I mostly use my phone for capturing tasks on the go.
+At a pinch, I can view a list of tasks if I need to but I have other ways of getting tasks 'out there' if I need to.
+I use termux with regular taskwarrior installed on it on my OnePlus 5 Android phone for this.
+
+### Speed
+
+For me, taskwarrior is lightening fast to use.
+
+The basic commands, even in their unaliased, native form, are ingrained in my fingers: `task` (the 'next' report, my default), `task sync` and  `task add [...]` are most used.
+
+After every taskwarrior transaction I instinctively type `task sync` and hit return and do it so quickly that I barely see the confirmatory messages.
+
+Of course, I have aliased these commands to make them even quicker but I don't overdo this because I often don't need to.
+DISCUSS SHELL ALIASING AND CREATING YOUR OWN REPORTS LATER.
+
+### Functionality
+
+We'll not cover it in detail here but taskwarrior has all the functionality I require in terms of the metadata I find useful attaching to an actionable item: due date, scheduled (start) date, tags, projects, priority, annotations (comments, basically); listing, filtering, searching, sorting - it's all very much there.
+
+Taskwarrior has other things that are rarely seen in the other cloud-based applications that I've used to date: User Definted Attributes (UDAs) - you do similar in Trello with a paid subscription; contexts, which is just another way to filter your tasks and coefficients for urgency - to name a few.
+
+### Configurability
+
+There is lots to say here - taskwarrior if incredibly configurable in itself.
+Run `man taskrc` to learn about everything you can do with your configuration file.
+I like to set up my own reports for various things, tweaking urgency coefficients, colours and sorting.
+
+### Hooks
+
+Now we open out into taskwarrior's interoperability with tools, and the landscape is huge.
+The first thing to look at is taskwarrior's hooks system - basically you can write a hook in whatever language you like to trigger on a particular action, such as adding, updating or removing a task.
+I used this to interact with `remind` - more below.
+The sky is the limit here - you can trigger a whole train of events if you want to.
