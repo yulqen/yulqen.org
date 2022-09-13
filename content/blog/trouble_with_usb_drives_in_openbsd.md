@@ -1,7 +1,7 @@
 ---
 title: "Trouble with USB drives in OpenBSD"
 date: 2022-09-13T08:31:41+01:00
-draft: true
+draft: false
 categories: ['Computing']
 tags: ['openbsd', 'linux']
 ---
