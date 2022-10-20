@@ -24,6 +24,14 @@ pygmentsUseClasses = true
     post = '| '
 
   [[menu.main]]
+    identifier = "art"
+    name = "Art"
+    title = "art"
+    url = "/art/"
+    weight = 10
+    post = '| '
+
+  [[menu.main]]
     identifier = "stream"
     name = "Stream"
     title = "Stream"
