@@ -1,5 +1,5 @@
 ---
-title: "International Men's Day"
+title: "International Men's Day/Sitting Suffering"
 date: 2022-10-20T13:15:16+01:00
 draft: false
 tags: ['art', 'photography']
