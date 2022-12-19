@@ -10,7 +10,7 @@ secrets:
 tasks:
     - deploy: |
         cd yulqen.org
-        sshopts="ssh -o StrictHostKeyChecking=no"
+        sshopts="ssh -o StrictHostKeyChecking=no -p 2222"
         rsync --rsh="$sshopts" toss.txt $deploy:/var/www/yulqen.org/
         
     
