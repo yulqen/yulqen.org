@@ -19,6 +19,6 @@ I have [three cats that kill](../blog/cats/cat_kills/).
 
 ---
 
-[Github](https://github.com/yulqen) | 📧 [Email](mailto:y@yulqen.org)
+[SourceHut](https://sr.ht/~yulqen/) | 📧 [Email](mailto:y@yulqen.org)
 
 [GPG](../keys/mrl-gpg.pub) (fingerprint: 19014642A9FCD633B886B8F59C9841C3EF4E0B8E)
