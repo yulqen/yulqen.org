@@ -3,6 +3,7 @@ sources:
     - https://git.sr.ht:~yulqen/yulqen.org
 packages:
     - rsync
+    - hugo
 environment:
     deploy: lemon@joannalemon.com
 secrets:
