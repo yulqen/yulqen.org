@@ -8,9 +8,12 @@ environment:
 secrets:
     - ff8a0fab-2c22-4afd-9955-ddf4090288d5
 tasks:
+    - build: |
+      cd yulqen.org
+      hugo
     - deploy: |
         cd yulqen.org
         sshopts="ssh -o StrictHostKeyChecking=no -p 2222"
-        rsync --rsh="$sshopts" toss.txt $deploy:/var/www/yulqen.org/
+        rsync  -azr --rsh="$sshopts" public/ $deploy:/var/www/yulqen.org/ --exclude '*.xcf' --exclude Makefile --exclude .git --exclude .htaccess --delete 
         
     
