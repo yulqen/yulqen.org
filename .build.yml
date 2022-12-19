@@ -9,8 +9,8 @@ secrets:
     - ff8a0fab-2c22-4afd-9955-ddf4090288d5
 tasks:
     - build: |
-      cd yulqen.org
-      hugo
+        cd yulqen.org
+        hugo
     - deploy: |
         cd yulqen.org
         sshopts="ssh -o StrictHostKeyChecking=no -p 2222"
