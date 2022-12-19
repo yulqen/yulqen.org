@@ -1,5 +1,5 @@
 ---
-title: "19_December_2022"
+title: "19 December 2022"
 date: 2022-12-19T10:59:54Z
 draft: false
 daily_read: true
