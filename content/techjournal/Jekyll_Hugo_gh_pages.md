@@ -2,6 +2,7 @@
 title: "From Jekyll and Github Pages, back to Hugo"
 date: 2023-04-18T15:29:16+01:00
 draft: false
+tags: ['hugo']
 ---
 
 This is a new journal where I intend to dump technical stuff.
