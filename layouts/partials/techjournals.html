@@ -1,0 +1,7 @@
+<ul id="techjournals">
+  {{ range where site.RegularPages "Section" "techjournal" }}
+  <li>
+    <a href="{{ .Permalink }}">{{ .Title }}</a> ({{ .Date.Format "2 Jan 06" }})
+  </li>
+  {{ end }}
+</ul>

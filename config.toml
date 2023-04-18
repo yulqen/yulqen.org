@@ -16,6 +16,14 @@ pygmentsUseClasses = true
 
 [menu]
   [[menu.main]]
+    identifier = "techjournal"
+    name = "Techjournal"
+    title = "techjournal"
+    url = "/techjournal/"
+    weight = 10
+    post = '| '
+
+  [[menu.main]]
     identifier = "blog"
     name = "Blog"
     title = "blog"
