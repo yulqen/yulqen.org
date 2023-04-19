@@ -1,7 +1,7 @@
 ---
 title: "Run your life with taskwarrior"
-date: 2022-08-31T19:57:42+01:00
-draft: true
+date: 2023-04-18T19:57:42+01:00
+draft: false
 categories: ['Computing']
 tags: ['taskwarrior']
 ---
@@ -38,7 +38,7 @@ This may turn into a short series of posts - I don't know yet.
 
 Let's get the hackneyed stuff out of the way.
 
-Taskwarrior is a mature project and the key feature set is already there. The original developers have moved on but there are new maintainers and development work happens, including what looks like a new storage core rewritten in Rust. I'm not clear on the reasons for that. Taskwarrior certainly doesn't lack speed it being written in C++.
+Taskwarrior is a mature project and the key feature set is already there. The original developers have moved on but there are new maintainers and development work happens, including what looks like a new storage core rewritten in Rust. I'm not clear on the reasons for that. Taskwarrior certainly doesn't lack speed, it being written in C++.
 
 But in terms of the the typical user profile, you're probably a Linux programmer, sysadmin or free software or plaintext bore; you know how to install taskwarrior and that `task` is a command line application accessed via the blinking prompt in your terminal, *like all the best stuff in your nerdy computing life*. 
 
@@ -74,7 +74,6 @@ The basic commands, even in their unaliased, native form, are ingrained in my fi
 After every taskwarrior transaction I instinctively type `task sync` and hit return and do it so quickly that I barely see the confirmatory messages.
 
 Of course, I have aliased these commands to make them even quicker but I don't overdo this because I often don't need to.
-DISCUSS SHELL ALIASING AND CREATING YOUR OWN REPORTS LATER.
 
 ### Functionality
 
@@ -84,7 +83,7 @@ Taskwarrior has other things that are rarely seen in the other cloud-based appli
 
 ### Configurability
 
-There is lots to say here - taskwarrior if incredibly configurable in itself.
+There is lots to say here - taskwarrior is incredibly configurable in itself.
 Run `man taskrc` to learn about everything you can do with your configuration file.
 I like to set up my own reports for various things, tweaking urgency coefficients, colours and sorting.
 
@@ -94,3 +93,5 @@ Now we open out into taskwarrior's interoperability with tools, and the landscap
 The first thing to look at is taskwarrior's hooks system - basically you can write a hook in whatever language you like to trigger on a particular action, such as adding, updating or removing a task.
 I used this to interact with `remind` - more below.
 The sky is the limit here - you can trigger a whole train of events if you want to.
+
+TO BE CONTINUED.
