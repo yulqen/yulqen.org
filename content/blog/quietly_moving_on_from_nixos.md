@@ -1,7 +1,7 @@
 ---
 title: "Quietly moving on from NixOS?"
 date: 2023-04-22T09:14:11+01:00
-draft: true
+draft: false
 categories: ['Computing']
 tags: ['nixos']
 ---
