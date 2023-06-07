@@ -7,7 +7,7 @@ packages:
 environment:
     deploy: lemon@joannalemon.com
 secrets:
-    - ff8a0fab-2c22-4afd-9955-ddf4090288d5
+    - ec3b15b5-3539-4e51-8dc7-f37e8200865b
 tasks:
     - build: |
         cd yulqen.org
