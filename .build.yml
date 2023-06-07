@@ -1,4 +1,4 @@
-image: archlinux
+image: debian/bookworm
 sources:
     - https://git.sr.ht:~yulqen/yulqen.org
 packages:
