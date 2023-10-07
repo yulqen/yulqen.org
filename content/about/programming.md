@@ -37,6 +37,8 @@ What got me into Java was Robert "Uncle Bob" Martin, and particularly the series
 
 There is something about Perl I love, even though I don't really use it. When I have, I love it. It's a total bitch to learn though: I've got the Camel Book and its a monster. Because Python got in first, I could never really justify investing much time with Perl. I hope it never dies - I don't care about its lack of OOO features or the sigils.
 
+**Update: 7 October 2023**: I am seriously thinking about writing my next web project in [Mojolicious](https://mojolicious.org/).
+
 ### Haskell
 
 That didn't last long. I bought a [book](https://haskellbook.com/) and was intrigued by functional programming. But I'm not clever enough to last long in that environment. Getting completely lost trying to configure [xmonad](https://hackage.haskell.org/package/xmonad) was the point where I switched off.
@@ -44,6 +46,21 @@ That didn't last long. I bought a [book](https://haskellbook.com/) and was intri
 ### C
 
 I like C and have written a few bits using it and I'm not competent enough to really understand how dangerous it is. I don't think I'd live long enough to master it enough to do anything useful with it. After writing in Python, it's tough to implement your own lists, maps, etc. C is the pinnacle.
+
+**Update 7 October 2023**: I got into C again this summer.
+Started to take the approach which that C is the *only* language worth knowing, which is ridiculous.
+Caught myself watching [Quel Solaar](https://www.twitch.tv/quel_solaar) streams on Twitch: there's someone who does believe that C is the God language.
+I've changed my mind already and am back on Perl this week...
+
+### C++
+
+I taught myself some C++ in August 2023 and became quite fascinated with it.
+After all the scare stories, I found it quite nice to program in, like a sort of Python-C hybrid, which makes sense I suppose.
+I wrote a [little grep-like program](https://github.com/yulqen/journal) in it to search through my journal files, and then decided to rewrite it [in C](https://github.com/yulqen/journalc) (see paragraph above).
+The C++ version took a couple of days, learning the language on the hoof.
+The C version took about a week.
+I understand more about memory management now and how things can blow up in C.
+Loved writing it, and learned a lot.
 
 ### Go
 
