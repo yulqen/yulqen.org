@@ -56,7 +56,7 @@ I've changed my mind already and am back on Perl this week...
 
 I taught myself some C++ in August 2023 and became quite fascinated with it.
 After all the scare stories, I found it quite nice to program in, like a sort of Python-C hybrid, which makes sense I suppose.
-I wrote a [little grep-like program](https://github.com/yulqen/journal) in it to search through my journal files, and then decided to rewrite it [in C](https://github.com/yulqen/journalc) (see paragraph above).
+I wrote a [little grep-like program](https://github.com/yulqen/journal) in it to search through my journal files, and then decided to rewrite it [in C](https://git.sr.ht/~yulqen/journalc) (see paragraph above).
 The C++ version took a couple of days, learning the language on the hoof.
 The C version took about a week.
 I understand more about memory management now and how things can blow up in C.
