@@ -2,14 +2,19 @@
 
 <style type="text/css" media="screen">
   li {
-    margin-bottom: 1.2em;
+    margin-bottom: 0;
   }
 </style>
 
-<h2 class="title">{{ .Title }}</h2>
+<h1 class="title">{{ .Title }}</h1>
 
+{{ if .Params.toc }}
+    <aside>
+        {{.TableOfContents }}
+    </aside>
+{{ end }}
 
 {{ .Content }}
 
-- {{ .Date.Format "2 Jan 2006" }}
+- Started: {{ .Date.Format "2 Jan 2006" }}
 {{ end }}
