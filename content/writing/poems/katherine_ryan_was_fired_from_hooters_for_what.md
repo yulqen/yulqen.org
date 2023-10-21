@@ -1,7 +1,7 @@
 ---
 title: "Katherine Ryan Was Fired From Hooters For What? | Big Fat Quiz"
 type: "writing/poems"
-draft: false
+draft: true
 date: 2022-08-13
 categories: ['Poetry']
 ---
