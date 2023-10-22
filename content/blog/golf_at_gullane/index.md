@@ -2,13 +2,14 @@
 title: "Golf at Gullane No. 2 - October 2023"
 date: 2023-10-21T12:29:36+01:00
 draft: false
-categories: ['Uncategorised']
+categories: ['Sport']
 tags: ['golf']
 ---
 
 Got a great game of golf in though - at [Gullane No. 2](https://www.gullanegolfclub.co.uk/course_no_2). Here is the card (mine is the top line). Couple of big 8s ruined it. Don't think I've ever scored so many 5s and don't remember last time I went round without a 6, so quite a unique round.
 
-{{< figure src="/img/gullane_scorecard.jpg" title="Gullane No.2 Scorecard" >}}
+{{< figure src="gullane_scorecard.jpg" title="Gullane No.2 Scorecard" >}}
+
 
 No. 2 is quite a bit easier than No. 1 and the rough is lenient here. Not sure if that's because of the time of the year. Only lost one ball.
 
