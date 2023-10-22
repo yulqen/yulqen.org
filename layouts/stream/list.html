@@ -2,26 +2,45 @@
 
 {{ .Content }}
 
-{{ range (.Paginate (where site.RegularPages "Section" "stream")).Pages }}
+{{ $paginator := .Paginate (where site.RegularPages "Section" "stream") }}
+
+{{ range $paginator.Pages }}
+
 <h3 id="{{ .Date.Format "Monday, 2 January 2006"| urlize}}">{{ .Date.Format "Monday, 2 January 2006" }}</h3>
 
-  {{ .Content }}
+{{ .Content }}
 
-  {{ if .Params.tags }}
-  <div style="background-color: rgb(240, 240, 240);">
+{{ if .Params.tags }}
+<div style="background-color: rgb(240, 240, 240);">
     This post is tagged with: 
-        {{ range .Params.tags }}
-        <a href="{{ "tags" | absURL }}/{{ . | urlize }}">{{ . }}</a>
-        {{ end }}
-  {{ else }}
+    {{ range .Params.tags }}
+    <a href="{{ "tags" | absURL }}/{{ . | urlize }}">{{ . }}</a>
+    {{ end }}
+    {{ else }}
     <div style="background-color: rgb(240, 240, 240); margin-top: 20px;">
-      This post is untagged. 
+        This post is untagged. 
     </div>
-  {{ end }}
-  </div>
-  <span><small><a href="{{ "stream" | absURL }}/#{{ .Date.Format "Monday 2 January 2006" | urlize}}">permalink</a></small></span>
+    {{ end }}
+</div>
+<span><small><a href="{{ "stream" | absURL }}/#{{ .Date.Format "Monday 2 January 2006" | urlize}}">permalink</a></small></span>
+
+<hr class="new1">
+{{ end }}
+
+<p>Stream navigation:</p>
     
-  <hr class="new1">
-  {{ end }}
+{{ if $paginator.HasPrev }}
+    <a href="{{ $paginator.Prev.URL }}">&larr;</a>
+{{ end }}
+
+
+{{ range $paginator.Pagers }}
+    <a href="{{ .URL }}">{{ .PageNumber }}</a>
+{{ end }}
+
+{{ if $paginator.HasNext}}
+    <a href="{{ $paginator.Next.URL }}">&rarr;</a>
+{{ end }}
+
 
 {{ end }}
