@@ -27,7 +27,7 @@
 <hr class="new1">
 {{ end }}
 
-<p>Stream navigation:</p>
+<p><em>Navigation:</em></p>
     
 {{ if $paginator.HasPrev }}
     <a href="{{ $paginator.Prev.URL }}">&larr;</a>
@@ -35,7 +35,11 @@
 
 
 {{ range $paginator.Pagers }}
-    <a href="{{ .URL }}">{{ .PageNumber }}</a>
+    {{ if (eq .PageNumber $paginator.PageNumber) }} 
+        <strong><a href="{{ .URL }}" style="background-color: lightgray; color: black">{{ .PageNumber }}</a></strong>
+    {{ else }}
+        <a href="{{ .URL }}">{{ .PageNumber }}</a>
+    {{ end }}
 {{ end }}
 
 {{ if $paginator.HasNext}}
