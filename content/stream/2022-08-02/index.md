@@ -7,4 +7,5 @@ tags: ['photos']
 
 Barrow-in-Furness in August.
 
-{{< figure src="img/barrow_tesco_extra.jpg" title="Barrow-in-Furness Tesco Extra in the rain" >}}
+![Barrow-in-Furness in the rain](barrow_tesco_extra.jpg)
+
