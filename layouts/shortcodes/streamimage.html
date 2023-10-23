@@ -1,5 +1,3 @@
 {{ $filename := .Get "filename" }}
-
-<!-- <p>{{ $.Page.Params.draft }}</p> -->
-<p>{{ .Scratch.Get "toss" }}</p>
-<img src="../../img/{{ $filename }}">
+{{ $size := .Get "size" }}
+<img src="{{ absURL "/stream/img/" }}{{ $filename }}" height="{{ $size }}">

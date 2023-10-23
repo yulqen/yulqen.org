@@ -12,21 +12,17 @@
 <h3 id="{{ .Date.Format "Monday, 2 January 2006"| urlize}}">{{ .Date.Format "Monday, 2 January 2006" }}</h3>
 
 
-{{ $.Scratch.Set "toss" "toss" }}
 <div style="margin-bottom: 1em;">
     {{ .Content }}
 </div>
 
-{{ $.Scratch }}
-
-{{ if $paginator.HasPrev }}
-    <p>this page is paginated</p>
-    {{ $.Page.Scratch.Add "imgpath" "PAGINATED" }}
-{{ else }}
-    <p>this page is NOT paginated</p>
-    {{ $.Page.Scratch.Set "imgpath" "img/" }}
-{{ end }}
-
+<!-- {{ if $paginator.HasPrev }} -->
+<!--     <p>this page is paginated</p> -->
+<!--     {{ $.Page.Scratch.Add "imgpath" "PAGINATED" }} -->
+<!-- {{ else }} -->
+<!--     <p>this page is NOT paginated</p> -->
+<!--     {{ $.Page.Scratch.Set "imgpath" "img/" }} -->
+<!-- {{ end }} -->
 
 
 {{ if .Params.tags }}
