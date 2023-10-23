@@ -8,11 +8,14 @@
 
 <h3 id="{{ .Date.Format "Monday, 2 January 2006"| urlize}}">{{ .Date.Format "Monday, 2 January 2006" }}</h3>
 
+{{ if $paginator.HasPrev }}
+    <p>this page is paginated</p>
+{{ else }}
+    <p>this page is NOT paginated</p>
+{{ end }}
+
 <div style="margin-bottom: 1em;">
-    {{ .Summary }}
-</div>
-<div style="margin-bottom: 1em;">
-    <a href="{{ .RelPermalink }}">Read more...</a>
+    {{ .Content }}
 </div>
 
 
