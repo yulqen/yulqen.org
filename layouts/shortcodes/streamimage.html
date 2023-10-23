@@ -1,3 +1,5 @@
 {{ $filename := .Get "filename" }}
-{{ $scratch := .Scratch }}
-<img src="{{$scratch.Get "imgpath" }}/{{ $filename }}">
+
+<!-- <p>{{ $.Page.Params.draft }}</p> -->
+<p>{{ .Scratch.Get "toss" }}</p>
+<img src="../../img/{{ $filename }}">
