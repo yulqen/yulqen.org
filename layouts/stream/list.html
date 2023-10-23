@@ -12,6 +12,7 @@
     <p>this page is paginated</p>
 {{ else }}
     <p>this page is NOT paginated</p>
+    {{ $.Scratch.Set "imgpath" "img/" }}
 {{ end }}
 
 <div style="margin-bottom: 1em;">
