@@ -14,6 +14,7 @@ Inspired by https://hunden.linuxkompis.se/2023/11/09/my-default-applications-202
 | Window manager:                       | [i3](https://i3wm.org/) |
 | Web browser:                          | [Librewolf](https://librewolf.net/), [Firefox](https://www.mozilla.org/en-GB/firefox/new/) |
 | Web feed client:                      | [Newsboat](https://newsboat.org/) |
+| Source code:                          | [Source Hut](https://sr.ht/) |
 | Bookmark manager:                     | [quicknote](https://git.sr.ht/~yulqen/quicknote) |
 | Email client:                         | [aerc](https://aerc-mail.org/) |
 | Email provider:                       | [Purelymail](https://purelymail.com/) |
