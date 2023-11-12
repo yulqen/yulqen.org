@@ -15,7 +15,7 @@ Inspired by https://hunden.linuxkompis.se/2023/11/09/my-default-applications-202
 | Web browser:                          | [Librewolf](https://librewolf.net/), [Firefox](https://www.mozilla.org/en-GB/firefox/new/) |
 | Web feed client:                      | [Newsboat](https://newsboat.org/) |
 | Source code:                          | [Source Hut](https://sr.ht/) |
-| Bookmark manager:                     | [quicknote](https://git.sr.ht/~yulqen/quicknote) |
+| Bookmark manager:                     | [quicknote](https://git.sr.ht/~yulqen/quicknote) - the source of many [quicknotes](https://yulqen.org/techjournal/) |
 | Email client:                         | [aerc](https://aerc-mail.org/) |
 | Email provider:                       | [Purelymail](https://purelymail.com/) |
 | Calendar:                             | [Khal](https://github.com/pimutils/khal) |
