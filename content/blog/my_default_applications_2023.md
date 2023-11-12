@@ -28,12 +28,12 @@ Inspired by https://hunden.linuxkompis.se/2023/11/09/my-default-applications-202
 | Shell:                                | [Bash](https://www.gnu.org/software/bash/) |
 | Text editor:                          | [vim](https://www.vim.org/) - RIP Bram Moolenaar |
 | Word processing:                      | [vim](https://www.vim.org/), [Pandoc](https://pandoc.org/) |
-| Code editing/IDE:                     | [vim](https://www.vim.org/) - RIP Bram Moolenaar |
-| Notes:                                | [vim](https://www.vim.org/) - RIP Bram Moolenaar |
+| Code editing/IDE:                     | [vim](https://www.vim.org/) |
+| Notes:                                | [vim](https://www.vim.org/) |
 | To-do application:                    | [taskwarrior](https://taskwarrior.org/) |
 | Music player:                         | [mpd](https://www.musicpd.org/), [ncmpcpp](https://github.com/ncmpcpp/ncmpcpp), [mpv](https://mpv.io/) |
 | Video player:                         | [mpv](https://mpv.io/) |
-| Podcast client:                     	| [Antennapod](https://antennapod.org/_ |
+| Podcast client:                     	| [Antennapod](https://antennapod.org/) |
 | File manager:                         | [Bash](https://www.gnu.org/software/bash/) |
 | Photo management:                     | [Darktable](https://www.darktable.org/) |
 | Budgeting/finances:                   | [hledger](https://hledger.org/) |
