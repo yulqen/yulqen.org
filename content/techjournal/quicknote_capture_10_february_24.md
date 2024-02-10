@@ -50,7 +50,7 @@ tags: ['quicknotes']
 - This is ALL you need to know to write C programs: [Beej's Guide to C Programming](https://beej.us/guide/bgc/html/)
 - And this one...: [Beej's Guide to Network Concepts](https://beej.us/guide/bgnet0/html/)
 - I'm in two minds about all this fucking around in Neovim. Neovim is becoming a big "thing" in nerdspace, like htmx. I want to say fuck Lua-configured Neovim but once it is configured, it is pretty nice. This is a plugin to add fancy links to Markdown documents: [Marksman LSP](https://medium.com/@chrisatmachine/lunarvim-improve-markdown-editing-with-marksman-739d06c73a26)
-- This vegan's zettlekasten system basted on Neovim: [403 Forbidden](https://www.mischavandenburg.com/zet/neovim-zettelkasten/)
+- This vegan's zettlekasten system based on Neovim: [403 Forbidden](https://www.mischavandenburg.com/zet/neovim-zettelkasten/)
 - For free screencasting and videocasting: https://sanctum.geek.nz/presentations/ffmpeg-for-owncast.pdf
 - Good presentation on Wireguard: https://sanctum.geek.nz/presentations/trusted-networks-with-wireguard.pdf
 - Good presentationon SSH: https://sanctum.geek.nz/presentations/openssh-tricks.pdf 
