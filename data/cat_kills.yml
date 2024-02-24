@@ -1,4 +1,11 @@
 cat_kills:
+  - date: "23 February 2024"
+    super_species: "Rodent"
+    specific_species: "Mouse"
+    kill_type: "DOA"
+    killer: "NA"
+    suspect_killer: "NA"
+    comments: "Back at the start of a new killing season. There have been a plethora of killings since I last logged them, however the daffodils coming up signals a new age of slaughter."
   - date: "4 September 2022"
     super_species: "Rodent"
     specific_species: "Mouse"
