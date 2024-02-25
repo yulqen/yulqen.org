@@ -1,4 +1,11 @@
 cat_kills:
+  - date: "25 February 2024"
+    super_species: "Rodent"
+    specific_species: "Shrew"
+    kill_type: "DOA"
+    killer: "NA"
+    suspect_killer: "NA"
+    comments: "A baby shrew on its back on the carpet this morning. We'll need to get some more nappy sacks at Morrisons - the kill-rate is increasing."
   - date: "23 February 2024"
     super_species: "Rodent"
     specific_species: "Mouse"
