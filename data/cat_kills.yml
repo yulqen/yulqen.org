@@ -1,4 +1,11 @@
 cat_kills:
+  - date: "29 February 2024"
+    super_species: "Rodent"
+    specific_species: "Mouse"
+    kill_type: "DOA"
+    killer: "NA"
+    suspect_killer: "NA"
+    comments: "This sturdy adult mouse was found lying on its side with significant and fatal upper chest injuries. In exactly the same spot on the utility room floor."
   - date: "25 February 2024"
     super_species: "Rodent"
     specific_species: "Shrew"
