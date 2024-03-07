@@ -1,7 +1,7 @@
 ---
 title: "I'm a below average intelligence programmer"
 date: 2024-03-07T08:51:54Z
-draft: true
+draft: false
 categories: ['Computing']
 tags: ['code', 'rant']
 ---
