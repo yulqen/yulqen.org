@@ -28,15 +28,15 @@ I have no idea how to debug a problem in a fifteen step CI/CD pipeline involving
 
 ## My current 'stack'
 
-1. I have used many Linux operating systems in recent years, most recently [Arch](https://archlinux.org/) and [Artix Linux](https://artixlinux.org/) on my desktop and various laptops. I [flirted with Nix OS](https://yulqen.org/blog/quietly_moving_on_from_nixos/) and on [my stream](https://yulqen.org/stream/) I claim that NixOS was computing nirvana. But now I'm migrating back to Debian [stable] on all my machines (the servers were already mostly Debian) for the simplicity and stabilty. *Fuck NixOS and fuck Windows!*
-2. I am favouring [Go](https://go.dev/) for new programming projects. For many reasons, but one of them is for its explicit syntax and rigidity compared to other languages. *Fuck Haskell and fuck Rust!*
-3. Plain text for tasks and notes. [Obsidian](https://obsidian.md/), [Roam](https://roamresearch.com/), [Todoist](https://todoist.com), [Trello](https://trello.com), [TiddlyWiki](https://tiddlywiki.com/), [Org Mode](https://orgmode.org/) and a million others have been tried and put down over several year in favour of [Vim](https://www.vim.org/). *Fuck Obsidian!*
-4. [Markdown](https://daringfireball.net/projects/markdown/). *Fuck MS Word!*
-4. [Bash](https://www.gnu.org/software/bash/). *Fuck Powershell!*
-4. Django, when doing web stuff in Python. It just does it all. *Fuck React!*
-5. SQL, for data storage - with [Sqlite](https://www.sqlite.org/index.html) for simple projects and [PostgreSQL](https://www.postgresql.org/) or [MariaDB](https://mariadb.com/) for bigger projects. *Fuck NoSQL!*
-6. Docker running on a Debian VPS with [Apache](https://apache.org/) for reverse proxy. *Actually, I can't think of anything to say fuck off to here...*
-7. [rsync](https://rsync.samba.org/). I fucking love rsync. *Fuck file syncing program that is not rsync!*
-8. [Hugo](https://gohugo.io/) for this site. Everything written in markdown. *Fuck Wordpress!*
+1. I have used many Linux operating systems in recent years, most recently [Arch](https://archlinux.org/) and [Artix Linux](https://artixlinux.org/) on my desktop and various laptops. I [flirted with Nix OS](https://yulqen.org/blog/quietly_moving_on_from_nixos/) and on [my stream](https://yulqen.org/stream/) I claim that NixOS was computing nirvana. But now I'm migrating back to Debian [stable] on all my machines (the servers were already mostly Debian) for the simplicity and stabilty.
+2. I am favouring [Go](https://go.dev/) for new programming projects. For many reasons, but one of them is for its explicit syntax and rigidity compared to other languages.
+3. Plain text for tasks and notes. [Obsidian](https://obsidian.md/), [Roam](https://roamresearch.com/), [Todoist](https://todoist.com), [Trello](https://trello.com), [TiddlyWiki](https://tiddlywiki.com/), [Org Mode](https://orgmode.org/) and a million others have been tried and put down over several year in favour of [Vim](https://www.vim.org/). *Fuck Obsidian*
+4. [Markdown](https://daringfireball.net/projects/markdown/).
+4. [Bash](https://www.gnu.org/software/bash/).
+4. Django, when doing web stuff in Python. It just does it all.
+5. SQL, for data storage - with [Sqlite](https://www.sqlite.org/index.html) for simple projects and [PostgreSQL](https://www.postgresql.org/) or [MariaDB](https://mariadb.com/) for bigger projects.
+6. Docker running on a Debian VPS with [Apache](https://apache.org/) for reverse proxy.
+7. [rsync](https://rsync.samba.org/). I fucking love rsync.
+8. [Hugo](https://gohugo.io/) for this site. Everything written in markdown.
 
 Back to work.
