@@ -55,6 +55,14 @@ paginate = 10
     url = "/about/"
     weight = 20
     post = '| '
+  
+  [[menu.main]]
+    identifier = "now"
+    name = "Now"
+    title = "now"
+    url = "/now/"
+    weight = 20
+    post = '| '
 
   [[menu.main]]
     identifier = "categories"
