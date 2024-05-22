@@ -11,7 +11,7 @@ tags: ['now']
 
 I forget how awesome [Django](https://www.djangoproject.com/) is, and Python in general.
 For getting a project done, with the minimal amount of fuss, with everything you need built-in, Django is great.
-My insatiable curiosity has taken me to [Rails](https://rubyonrails.org/) and [Go](https://go.dev) in recent times; the former to too magical and the latter too bare-bones.
+My insatiable curiosity has taken me to [Rails](https://rubyonrails.org/) and [Go](https://go.dev) in recent times; the former too magical and the latter too bare-bones (at least for web development).
 Django is a great balance and I really love it.
 
 I am developing a basic e-commerce site for my awesomely talented wife, [Joanna Lemon](https://joannalemon.com).
@@ -22,7 +22,7 @@ I've used Linux for years but only now getting a feel for what I want to use it 
 I have a very modest home server running mostly [Debian](https://www.debian.org/) containers using [LXD](https://documentation.ubuntu.com/lxd/en/latest/).
 These provide various services to me and my family, such as [Adguard](https://adguard.com/en/welcome.html), [Radicale](https://radicale.org/v3.html), [Minecraft](https://www.minecraft.net/en-us), [Mumble](https://www.mumble.info/), [PostgreSQL](https://www.postgresql.org/), [syncthing](https://syncthing.net/) and [taskd](https://taskwarrior.org/docs/taskserver/why/) amongst a few other things.
 
-I have recently had to learn [OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift) and I really dislike it.
+I've recently had to learn [OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift) and I really dislike it.
 Obviously, for big enterprise applications I appreciate the benefits but for me - for now - [Docker](https://www.docker.com/) containers feel like an additional layer of complexity that you still have to get through before the benefits are realised.
 Certainly for doing projects at may scale.
 
