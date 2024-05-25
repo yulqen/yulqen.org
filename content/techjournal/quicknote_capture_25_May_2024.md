@@ -1,0 +1,77 @@
+---
+title: "Quicknote capture Saturday 25 May 2024"
+date: 2024-05-25T20:56:44
+draft: false
+categories: ["Tech"]
+tags: ['quicknotes']
+---
+
+Django and boostrap are back on the menu this period, after quite a long period out. These are technologies that I need to use more of in future.
+
+- [More focus music<!-- --> | The Blog of Joshua Blais](https://joshblais.com/posts/some-more-focus-music)
+- [Age of Empires 2: Age of Kings - Track 2 - YouTube](https://www.youtube.com/watch?v=FXp--cIRR2c&list=PL1800E1EFCA1EABE3&index=3)
+- [Productivity Hack: Music<!-- --> | The Blog of Joshua Blais](https://joshblais.com/posts/productivity-hack-music)
+- Correct: [The far-Left mob has seized control of Britain&#39;s streets – and its borders](https://www.telegraph.co.uk/news/2024/05/04/asylum-immigration-enforcement-protest-far-left-mob/)
+- [Django-allauth Tutorial](https://learndjango.com/tutorials/django-allauth-tutorial )
+- [Django Markdown Tutorial](https://learndjango.com/tutorials/django-markdown-tutorial )
+- [Django E-Commerce Tutorial with Stripe](https://learndjango.com/tutorials/django-stripe-tutorial )
+- [Why not tell people to "simply" use pyenv, poetry, pipx or anaconda](https://www.bitecode.dev/p/why-not-tell-people-to-simply-use )
+- [Jujens' blog – Manage static files for Django when deployed on kubernetes](https://www.jujens.eu/posts/en/2021/Mar/31/manage-static-k8s-django/ )
+- [Jujens' blog – Some tips to deploy Django in kubernetes](https://www.jujens.eu/posts/en/2021/Mar/29/deploy-django-kubernetes/ )
+- GOOD: [An Efficient Multi-Stage Build for Python Django in Docker - Tinker, Tamper, Alter, Fry](https://blog.ploetzli.ch/2020/efficient-multi-stage-build-django-docker/ )
+- [Preparing a Django project in a FreeBSD Jail - Euans' Weblog](https://blog.potensol.com/2015/12/03/preparing-django-jail/ )
+- [FreeBSD 14 : Nginx : Reverse Proxy : Server World](https://www.server-world.info/en/note?os=FreeBSD_14&p=nginx&f=8 )
+- [Practical rc.d scripting in BSD / FreeBSD Documentation Portal](https://docs.freebsd.org/en/articles/rc-scripting/ )
+- [Django & HTMX App - HTMX form submission / Query Optimization with django-debug-toolbar](https://www.youtube.com/watch?v=_yMFB7N9sRk )
+- DO THIS: [HTMX-ify a Django list page!](https://www.youtube.com/watch?v=wD7VB17fLK4 )
+- DO THIS! [Django QueryDict / GET parameters / django-filter](https://www.youtube.com/watch?v=nBrkUxa5X0E )
+- [This YouTube Channel Streams AI-Generated Death Metal 24/7](https://www.vice.com/en/article/xwnzm7/this-youtube-channel-streams-ai-generated-black-metal-247 )- Interesting furore about KeepassXC in the Debian world. The maintainer has switched off most of the functionality due to security concerns. Wow: [Debian Sid No-Feature KeePassXC Package  · Issue #10725 · keepassxreboot/keepassxc · GitHub](https://github.com/keepassxreboot/keepassxc/issues/10725) - Also see: https://fosstodon.org/@keepassxc/112417353193348720, and https://news.ycombinator.com/item?id=40320166.
+- [Innerring - CS Lewis Society of California](https://www.lewissociety.org/innerring/ )
+- [The Greatest Books: The Modern Library / 100 Best Novels from Modern Library](https://thegreatestbooks.org/lists/2 )
+- [The Forms API / Django documentation / Django](https://docs.djangoproject.com/en/5.0/ref/forms/api/#django.forms.Form.prefix )
+- [Elegant Objects](https://www.yegor256.com/elegant-objects.html )
+- [Seven Deadly Sins of a Software Project](https://www.yegor256.com/2015/06/08/deadly-sins-software-project.html )
+- [My Favorite Software Books](https://www.yegor256.com/2015/04/22/favorite-software-books.html )
+- [OOP in Pure C](https://www.youtube.com/watch?v=6Riy9hVIFDE )- Basics for sqlite3: [Command Line Shell For SQLite](https://www.sqlite.org/cli.html)
+- [Datatypes In SQLite](https://sqlite.org/datatype3.html)
+- [Crosslinking issues | GitLab](https://docs.gitlab.com/ee/user/project/issues/crosslinking_issues.html)
+- [I Rewrote My Entire Neovim Config...](https://www.youtube.com/watch?v=kJVqxFnhIuw )
+- Love this guy: [Django & HTMX App - Custom Managers / pytest & factory-boy for unit tests](https://www.youtube.com/watch?v=n47VFgqG-E8 )
+- [AI should replace clueless managers, not workers](https://www.dedoimedo.com/life/ai-bad-managers.html )
+- [Welcome to Cookiecutter Django’s documentation! — Cookiecutter Django 2024.20.1 documentation](https://cookiecutter-django.readthedocs.io/en/latest/index.html )
+- [My essential django package list — /var/](https://spapas.github.io/2017/10/11/essential-django-packages/ )
+- [GitHub - carltongibson/django-filter: A generic system for filtering Django QuerySets based on user selections](https://github.com/carltongibson/django-filter?tab=readme-ov-file )- [ME/CFS International Awareness Day | Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) | CDC](https://www.cdc.gov/me-cfs/resources/awarenessday.html)
+- [hashman.ca :: I am very sick](https://hashman.ca/me-cfs/)
+- [django cookiecutter compile sass in docker - Stack Overflow](https://stackoverflow.com/questions/59040093/django-cookiecutter-compile-sass-in-docker#60828767 )
+- [CSS variables · Bootstrap v5.0](https://getbootstrap.com/docs/5.0/customize/css-variables/ )
+- [Using CSS variables in Bootstrap / Bootstrap Blog](https://blog.getbootstrap.com/2022/05/16/using-bootstrap-css-vars/ )
+- [Bootstrap 5 Corporate Full Build: Build About Us Page (Part 13)](https://www.youtube.com/watch?v=_hC-tTOeaCY )
+- [Learn Sass - What are Sass Variables?](https://www.youtube.com/watch?v=E9x1G0-w9t8 )
+- FIX SLOW COOKIE CUTTER DJANGO: [github](https://github.com/cookiecutter/cookiecutter-django/issues/2902 )
+- [Learn Sass: What Are Sass Lists?](https://www.youtube.com/watch?v=wd3pRdfXeH0 )
+- [How To Customise Bootstrap's Containers](https://www.youtube.com/watch?v=Q_WXIMtQdS0 )
+- [Customize Bootstrap font family](https://www.youtube.com/watch?v=_7jrFQsaxT0 )
+- Simple. [Change Colors in Bootstrap with Sass (2023 Best Solution)](https://www.youtube.com/watch?v=zfXae4kyxAs )
+- [Sass: Sass Basics](https://sass-lang.com/guide/ )
+- [Django Allauth: The complete django-allauth guide - DEV Community](https://dev.to/gajesh/the-complete-django-allauth-guide-la3 )
+- BugBytes - doing something important: [youtube](https://www.youtube.com/watch?v=uYF-H5TmNTk)
+- Form wizard in Django (BugBytes): [youtube](https://www.youtube.com/watch?v=8xb9s3jnRF8)
+- Alternative debugger for python - untried but looks interesting: [pdbp · PyPI](https://pypi.org/project/pdbp/)
+- I like this blue vim/neovim colourscheme: [Attention Required! | Cloudflare](https://linuxconfig.org/configuring-virtual-network-interfaces-in-linux)
+- [virtualizationreview](https://virtualizationreview.com/articles/2011/06/30/virtual-network-editor-vmware-workstation.aspx?m=1)
+- How to get Google to search websites instead of provide AI bullshit: [tedium](https://tedium.co/2024/05/17/google-web-search-make-default/)
+- Decent answer on vmware networking: [vmware - What is the difference between NAT / Bridged / Host-Only networking? - Super User](https://superuser.com/questions/227505/what-is-the-difference-between-nat-bridged-host-only-networking)
+- Start VM in headless mode: [stackoverflow](https://stackoverflow.com/questions/24297088/starting-vmware-in-headless-mode)- [Kagi Search - A Premium Search Engine](https://kagi.com/)
+- [youtube](https://www.youtube.com/watch?v=2ON_yeNfO7Y)
+- Static IP in Vmware: https://superuser.com/questions/613366/how-to-set-static-ip-address-on-vmware-for-nat-guest-vms-from-an-ubuntu-host-dhc
+- dnsmasq video: https://www.youtube.com/watch?v=P2kiinwg00c
+- [HTML Standard](https://html.spec.whatwg.org/#the-cross-origin-opener-policy-header)
+- [Deploying Dancer Apps - Perl Hacks](https://perlhacks.com/2024/05/deploying-dancer-apps/)
+- [What are your favorite software architecture patterns? | Lobsters](https://lobste.rs/s/sgin0z/what_are_your_favorite_software)
+- Cheap PC from China on AliExpress!: [XCY Firewall Appliance Mini PC Intel Celeron J4125 Quad-Cores 4x LAN 2.5G i225V Network Card Soft Router Pfsense OPNsense](https://www.aliexpress.com/item/1005003378019857.html) - referenced here: https://www.srcbeat.com/2024/02/aliexpress-openbsd-router/
+- GOOD: Comparison between shells: [Unix Shells: Bash, Fish, Ksh, Tcsh, Zsh - Hyperpolyglot](https://hyperpolyglot.org/unix-shells)
+- Is this some sort of CICD tool? [Welcome to CTFreak!](https://ctfreak.com/)
+- [Django from first principles](https://www.mostlypython.com/django-from-first-principles-2/)
+- Hooray!: [Six beers that are good for your gut health – and the ones to avoid](https://www.telegraph.co.uk/health-fitness/diet/gut-health/healthy-beers-good-for-gut-health-and-ones-to-avoid/)
+- More goodness and anti-inflammatory foods for sufferers of ulcerative colitis: [Anti-inflammatory diet recipes that will help you live longer](https://www.telegraph.co.uk/health-fitness/diet/nutrition/anti-inflammatory-diet-recipes/)
+- Use this for legacy train times arrivals and departures: [Live Train Times | Rail Record](https://live.rail-record.co.uk/live/)
