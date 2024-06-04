@@ -1,0 +1,60 @@
+---
+title: "Quicknote capture Tuesday 4 June 2024"
+date: 2024-06-04T14:06:02
+draft: false
+categories: ["Tech"]
+tags: ['quicknotes']
+---
+
+A quickish turnaround this time because I want to see if the script I have written in Perl to post the page to the blog works properly, plus I've actually been quicknoting quite a lot of the last week or so. Topics include: Elgar, Go, git, cgit, lots of vim, and PHP! Crikey.
+
+- [Debian dismisses AI-contributions policy [LWN.net]](https://lwn.net/Articles/972331/)
+- 1.04:24 [Why do C Programmers Always Obfuscate Their Code?](https://www.youtube.com/watch?v=fJbAiXIum0k)
+- [How To Take Smart Notes With Org-mode · Jethro Kuan](https://blog.jethro.dev/posts/how_to_take_smart_notes_org/)
+- [Live: Emacs DENOTE unit testing](https://www.youtube.com/watch?v=44_eLHxSMmo)
+- [Emacs: new Denote developments (version 2.1.0-dev\)](https://www.youtube.com/watch?v=RK4P5oIIEnk)
+- [Denote Emacs Configuration // Take on Rules](https://takeonrules.com/2022/10/09/denote-emacs-configuration/)
+- [Taking Notes With the Emacs Denote Package](https://lucidmanager.org/productivity/taking-notes-with-emacs-denote/)
+- [Denote as a Zettelkasten - Prof. Dr. Stefan Thesing](https://www.thesing-online.de/blog/denote-as-a-zettelkasten)
+- Interesting that this article is written by ChatGPT: [A Personal Touch in my Org Agenda | macOS & (open-source\) Software](https://macowners.club/posts/personal-touch-org-agenda/)
+- [docker run | Docker Docs](https://docs.docker.com/reference/cli/docker/container/run/#restart)
+- [Live coding](https://www.youtube.com/playlist?list=PLw7UYp3N0eUbgK3bRtBifeNk8nnTPRI8U)
+- [(R\)?ex, the friendly automation framework](https://www.rexify.org/)
+- [Installing Elasticsearch and Nginx on CentOS using Rex](https://www.youtube.com/watch?v=k3uz7-7E3Ws)
+- [GitHub - Tecate/bitmap-fonts: Monospaced bitmap fonts for X11, good for terminal use.](https://github.com/Tecate/bitmap-fonts)
+- [Building a Compiler in C - Lexical Analysis](https://www.youtube.com/watch?v=-4RmhDy0A2s)
+- [Course Management Application in Mojolicious](https://perlmaven.com/course-management-app-in-mojolicious)
+- An example of a cgitrc config file: [Cgit solution for my network | Knowledge Base](https://bgstack15.wordpress.com/2021/04/21/cgit-solution-for-my-network/)
+- This helped me get the Mardown files rendering properly in cgit: [Floating Octothorpe: Markdown readme files in cgit](https://floatingoctothorpe.uk/2018/markdown-readme-files-in-cgit.html)
+- man page for cgitrc: [cgitrc.5.txt - cgit - A hyperfast web frontend for git repositories written in C.](https://git.zx2c4.com/cgit/tree/cgitrc.5.txt)
+- [Inside Container Debugging with GO - DEV Community](https://dev.to/raftt/inside-container-debugging-with-go-48c5)
+- [Go Simple HTTP File Upload Tutorial](https://www.youtube.com/watch?v=0sRjYzL_oYs)
+- [Vimrc with two LSP plugins: poc/.vimrc at master · nir9/poc · GitHub](https://github.com/nir9/poc/blob/master/.vimrc)
+- [Making Minimalist Web Server in C on Windows](https://www.youtube.com/watch?v=qlymbA0tDMQ)
+- [Vim Tutorial - Fold HTML Tags](https://www.youtube.com/watch?v=VaYcNW79ai4)
+- [How to Add Language Servers to Vim](https://www.youtube.com/watch?v=n6JEqPuWOxg)
+- [3 Cool Vim Tricks to Save Time](https://www.youtube.com/watch?v=MlarwvmOdtg)
+- [Effects Showroom - TerminalTextEffects Docs](https://chrisbuilds.github.io/terminaltexteffects/showroom/?)
+- [David Heinemeier Hansson on SQLite | High Performance SQLite](https://highperformancesqlite.com/interviews/dhh?)
+- [Old Dogs, new CSS Tricks | Max Böck](https://mxb.dev/blog/old-dogs-new-css-tricks/?)
+- [macOS Virtual Machine on Linux With Unique Serial #](https://www.youtube.com/watch?v=hbSq1Ns7qcQ)
+- [Advanced Vim Workflows](https://www.youtube.com/watch?v=futay9NjOac)
+- [irian](https://learnvim.irian.to/basics/compile)
+- [Debian Production Releases](https://wiki.debian.org/DebianReleases#Production_Releases)
+- Elgar's 1st Symphony - a recommeded recording and a great Adagio as far as I can tell: [Elgar: Symphony No. 1 in A flat major, Op. 55 - Decca: 4789353 - download | Presto Music](https://www.prestomusic.com/classical/products/8081126--elgar-symphony-no-1-in-a-flat-major-op-55)
+- Elgar's 1st Symphony - recommended as the best recording on BBC Radio 3 on 1 June 2024: [Elgar - Symphony No.1 etc Orchestral & Concertos  Chandos](https://www.chandos.net/products/catalogue/CHAN%205181)
+- [GitHub - golang-standards/project-layout: Standard Go Project Layout](https://github.com/golang-standards/project-layout?tab=readme-ov-file)
+- 'Or perhaps we are witnessing the effects of screen additction, which leaves people grumpier, more credulous and with shorter attentions spans.': [Trump&#39;s verdict means it will take a miracle for American democracy to survive the next six months](https://www.telegraph.co.uk/news/2024/06/01/trumps-verdict-a-miracle-for-american-democracy-survive/)
+- [Testing your API client in Go - a method  - DEV Community](https://dev.to/andreidascalu/testing-your-api-client-in-go-a-method-4bm4)
+- Decent: [Get Started Testing an API Built With Golang | Twilio](https://www.twilio.com/en-us/blog/get-started-testing-api-built-with-golang)
+- [Go Class: 38 Testing - YouTube](https://www.youtube.com/watch?v=PIPfNIWVbc8)
+- This guy thinks that multi-part forms are outdated! Here he is talking about Go microservices and multi-part forms. Interesting stuff.: [Building Microservices with Go: 11 HTTP multi-part requests - YouTube](https://www.youtube.com/watch?v=_7-IhHMptNo) - This guy!
+- [X11 color names - Wikipedia](https://en.wikipedia.org/wiki/X11_color_names)
+- Fucking brilliant from Dennis: [lastmiles ranting against UEFI](https://www.oetec.com/pastebin/plain/uefi)
+- The only datatypes in sqlite: [Datatypes In SQLite](https://sqlite.org/datatype3.html)
+- [PHP Tutorial](https://www.phptutorial.net/)
+- [This is Nigel Farage&#39;s finest hour: it will make the man](https://www.telegraph.co.uk/news/2024/06/03/this-is-nigel-farages-grandest-moment-it-will-make-the-man/)
+- I used this to bootstrap my first php server: [Isolate websites on FreeBSD with Nginx, PHP-FPM, Acme.sh, MySQL](https://securityf2.com/host-multiple-sites-securely-with-nginx-php-fpm-and-mysql-on-freebsd-12/)
+- [Demystifying Nginx and PHP-FPM](https://medium.com/@mgonzalezbaile/demystifying-nginx-and-php-fpm-for-php-developers-bba548dd38f9)
+- [Just a moment...](https://www.cyberciti.biz/faq/freebsd-install-php-7-2-with-fpm-for-nginx/)
+- [PHP Tutorial](https://www.phptutorial.net/)
