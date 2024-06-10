@@ -5,7 +5,11 @@ draft: false
 tags: ['now']
 ---
 
-**Updated**: 20 May 2024
+**Updated**: 10 June 2024
+
+### Back to OpenBSD
+
+I am re-building my modest cloud offering, away from the central server being an old Ubuntu 16.04 VPS on Digital Ocean, with supporting Debian VPs for reverse proxying, to using [OpenBSD](https://www.openbsd.org) and [FreeBSD](https://www.freebsd.org) as the key components. At this point, I really like [httpd](https://man.openbsd.org/httpd) in preference to [nginx](https://nginx.org/en/) whose much broader function-set and sprawling documentation puts me off.
 
 ### Writing Django applications again
 
@@ -16,7 +20,7 @@ Django is a great balance and I really love it.
 
 I am developing a basic e-commerce site for my awesomely talented wife, [Joanna Lemon](https://joannalemon.com).
 
-### Exploring self-built cloud infrastructure
+### Exploring self-built cloud infrastructure (May 2024)
 
 I've used Linux for years but only now getting a feel for what I want to use it for to build my personal cloud infrastructure.
 I have a very modest home server running mostly [Debian](https://www.debian.org/) containers using [LXD](https://documentation.ubuntu.com/lxd/en/latest/).
@@ -30,13 +34,13 @@ I want to do more hands-on work with PostgreSQL as part of this.
 
 I am also continually interested in the BSDs - [OpenBSD](https://www.openbsd.org/) and [FreeBSD](https://www.freebsd.org/) in particular - and want to make use of them where I can.
 
-### VMWare Workstation Pro
+### VMWare Workstation Pro (May 2024)
 
 A lot of people in the homelab/hacker space were no doubt excited to find out recently that VMWare Workstation Pro became free of charge.
 It's not free/open source of course but in terms of performance, it is a lot better than [VirtualBox](https://www.virtualbox.org/) which I never really took to anyway, and [KVM](https://www.linux-kvm.org/page/Main_Page).
 Just starting to set up a playground for my networking aspirations using FreeBSD and [Devuan](https://www.devuan.org/).
 
-### Moved back to Spotify
+### Moved back to Spotify (May 2024)
 
 I'm generally wary of any kind of dependence on a cloud service but we tried [Amazon Prime Music Unlimited](https://www.amazon.co.uk/music/unlimited) recently when Spotify put their prices up.
 A bit like with Django, sometimes you need to move away to realise how awesome the thing is you just left: Spotify's UI, music discovery, desktop and TUI application options and focus on music rather than trying to ram podcasts down your neck - is what was important.
