@@ -12,7 +12,7 @@ This is my umpteenth web site and it will dutifully disappear in time. It is cur
 
 Meaty, permanent and sustaining wisdom is filed inside [Blog](/blog). Ephemeral nonsense goes in [Stream](/stream), my antisocial feed. Neither qualification is a given. *Sometimes the really good stuff may leak out into the dailies!* RSS remains the syndication tool of choice.
 
-Quick pics will be processed using only [ImageMagick](https://imagemagick.org/script/index.php) but I do like [GIMP](https://www.gimp.org/) and if I start putting up photos in earnest, GIMP wil be the one.
+Quick pics will be processed using only [ImageMagick](https://imagemagick.org/script/index.php) but I do like [GIMP](https://www.gimp.org/) and if I start putting up photos in earnest, GIMP will be the one.
 
 
 I have [three cats that kill](../blog/cats/cat_kills/).
