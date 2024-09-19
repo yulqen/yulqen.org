@@ -5,7 +5,7 @@ languageCode = "en-gb"
 enableInlineShortcodes = true
 pygmentsCodeFences = true
 pygmentsUseClasses = true
-paginate = 10
+pagination.pagerSize = 10
 
 [params]
   description = "An intentionally quiet and unassuming (and empty) blog"
