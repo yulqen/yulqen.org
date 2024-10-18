@@ -1,6 +1,6 @@
 ---
 title: "What I am doing now"
-date: 20250520T1100
+date: 20250520
 draft: false
 tags: ['now']
 ---
