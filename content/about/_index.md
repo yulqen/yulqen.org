@@ -1,6 +1,6 @@
 ---
 title: "Yulqen - About this site"
-date: 2021-05-17T19:45:46+01:00
+date: 20210517
 draft: false
 ---
 
@@ -19,6 +19,6 @@ I have [three cats that kill](../blog/cats/cat_kills/).
 
 ---
 
-[My git repositories](https://git.yulqen.org/) | 📧 [Email](mailto:y@yulqen.org)
+[My git repositories](http://git.yulqen.org/) | 📧 [Email](mailto:y@yulqen.org)
 
 [GPG](../keys/mrl-gpg.pub) (fingerprint: 19014642A9FCD633B886B8F59C9841C3EF4E0B8E)
