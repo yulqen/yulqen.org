@@ -6,7 +6,33 @@ categories: ["Tech"]
 tags: ['quicknotes']
 ---
 
-Have left it a bit late this period, but here you go...
+According to AI, these are the subject discussed in this Quicknote:
+
+1. **Programming & Development**:
+   - Discussions on programming languages like Perl, Ruby, Go, and Haskell.
+   - Projects and tools, including simple markdown translators, deployment tutorials for web applications, and frameworks like Ruby on Rails.
+   - Tutorials on project management methodologies, particularly Kanban.
+
+2. **Technology & Tools**:
+   - Resources on modern Perl features, self-hosting solutions, and BSD-related guides.
+   - Tips for setting up development environments and using popular tools like Obsidian and Wireguard.
+
+3. **Ebooks & Reading**:
+   - Information about the Kobo Clara ebook reader and links to free programming books on GitHub.
+   - Recommendations to improve reading and writing practices.
+
+4. **Open Source & GNU/Linux**:
+   - Insights on using operating systems like FreeBSD and OpenBSD.
+   - Technical discussions around managing shell commands and media management tools.
+
+5. **Video Content**:
+   - Links to informative YouTube videos covering ethical issues in human-robot interaction and tutorials related to programming topics.
+
+6. **Miscellaneous Topics**:
+   - Commentary on societal issues, nostalgia pieces about the 1991 Argos catalogue, and significant political news.
+   - Exploration of personal and philosophical reflections through various blogs and podcasts.
+
+---
 
 - [Why I love Perl](https://aplawrence.com/Unixart/loveperl.html)
 - [Modern::Perl - enable all of the features of Modern Perl with one import - metacpan.org](https://metacpan.org/pod/Modern::Perl)
