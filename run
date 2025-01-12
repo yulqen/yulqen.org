@@ -1,0 +1,8 @@
+#!/bin/sh
+
+podman run -d \
+  --name yulqen.org \
+  --restart always \
+  -p 8080:80 \
+  -v ./public:/usr/share/nginx/html:ro \
+  nginx:alpine
