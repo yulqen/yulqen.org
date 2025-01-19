@@ -9,7 +9,7 @@ pagination.pagerSize = 10
 
 [params]
   description = "An intentionally quiet and unassuming (and empty) blog"
-  copyright = "Copyright © 2024 Yulqen"
+  copyright = "Copyright © 2025 Yulqen"
   dark = "off"
   highlight = true
   custom_css = ["css/style.css"]
